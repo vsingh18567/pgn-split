@@ -1,0 +1,338 @@
+[Event "Gotham's 1. e4: * The Vienna *"]
+[Site "https://lichess.org/study/ppX6nEGb/4884L8RL"]
+[Result "*"]
+[UTCDate "2021.06.15"]
+[UTCTime "03:18:38"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/vikramsingh0309"]
+
+*
+
+
+[Event "Gotham's 1. e4: --- Vienna Gambit"]
+[Site "https://lichess.org/study/ppX6nEGb/taxhuIKP"]
+[Date "2019.11.28"]
+[White "Chapter 1"]
+[Black "1. e4 e5, Vienna Gambit"]
+[Result "*"]
+[Annotator "Gotham"]
+[UTCDate "2021.06.13"]
+[UTCTime "10:29:44"]
+[Variant "Standard"]
+[ECO "C29"]
+[Opening "Vienna Game: Vienna Gambit, Paulsen Attack"]
+
+1. e4 e5 2. Nc3 Nf6 3. f4 d5 (3... exf4 4. e5 Ng8 (4... Qe7 5. Qe2 Ng8 6. d4 Nc6 7. Nf3 d5 (7... d6 8. Nd5 Qd8 (8... Qd7 9. exd6+ Nge7 10. Nxc7+ Kd8 11. dxe7+ Bxe7 12. Nxa8) 9. Nxc7+ Qxc7 10. exd6+) 8. Nxd5 { [%csl Ge7] } 8... Qd8 9. Qe4) 5. Nf3)  (3... d6 4. Nf3 Be7 5. fxe5 dxe5 6. Bc4) 4. fxe5 Nxe4 5. Qf3 Nxc3 { We want them to take
+this knight so we will recapture with the b2 pawn and go for d2-d4, with a
+large center, and Bd3/Ne2 setup. } (5... Nc6 { A tricky and challenging move. We
+must prevent Nxe5. } 6. Bb5 Nxc3 (6... f5 { Combining Nc6 with f5 makes no sense. } 7. d3 Nxc3 8. bxc3 Be6 9. Ne2) 7. dxc3 Qh4+ (7... a6 8. Bxc6+ bxc6 9. Ne2 { And we prepare castling with Nd4 coming. Natural development here can quickly
+backfire for Black. } 9... Bc5 10. Qg3 Rg8 11. Bg5 Be7 12. Bxe7 Qxe7 13. O-O)  (7... Be7 8. Ne2) 8. g3 Qe4+ 9. Be3 { Don't rush to trade queens. We prefer if Black
+will take our queen first, and if Black gets greedy with Qxe5... } 9... Qxe5 (9... Qxf3 10. Nxf3 { [%cal Ge1c1] })  (9... Qxc2 10. Ne2 { and now Black has to come
+back and offer the trade again, as taking on b2 leads to us castling with a
+huge attack. } 10... Qe4 11. Qxe4 dxe4 12. Nd4 Bd7 13. Nxc6 bxc6 14. Ba4 { Down a pawn
+for the moment but with the amount of weaknesses (c6, c7, e4, f7) we'll
+continue pressure throughout the middlegame. }) 10. O-O-O Be6 11. Ne2 { We've
+sacrificed a pawn for an initiative. Our ideas include Nd4/f4, or Bf4, and
+moving the Rh1 to f1 or e1. })  (5... f5 { I'll be very clear: this is the best
+move in my experience, but we will try to mix things up here regardless. } 6. d3 (6. Nh3 { You can also try this tricky line, and I actually recommend it over
+the standard d3 line. } 6... Nc6 7. d3 Nxc3 8. bxc3 { Gambiting e5. } 8... Nxe5 9. Qe2 { [%cal Gd3d4] } 9... Qe7 (9... Qh4+ 10. g3 Qe7 11. Bg2 Ng6 12. Be3) 10. Bg5) 6... Nxc3 7. bxc3 { Now if Black doesn't play the critical d5-d4, we will get a very easy
+game. } 7... d4 (7... Be7 8. Ne2 { [%csl Rd4] } 8... O-O 9. g3) 8. Qg3 { Remember this move!
+You're freeing up f3 for the knight and preventing the Bf8 from moving. } 8... Nc6 9. Be2 { Another important moment -- we must develop Be2 before moving our knight,
+as we threaten Bh5+ here. } 9... Be6 10. Bf3 Qd7 11. Ne2 dxc3 12. Be3 Nb4 13. Rc1 Nd5 14. Bxd5) 6. bxc3 Be7 (6... Qh4+ 7. g3 Qe4+ 8. Qxe4 dxe4 9. Bg2 (9. d4 exd3 10. cxd3 Nc6 11. d4) 9... Nc6 10. Bxe4 Nxe5 11. Rb1 c6 12. d4 Nc4 13. Nf3 Bd6 14. Kf2 O-O 15. Bd3 Nb6 16. c4)  (6... c5 7. Qg3 { A good way to put Black's
+development on hold as usual. } 7... Nc6 8. Nf3 Bf5 9. Bd3 Bxd3 10. cxd3 g6 11. O-O Bg7 12. d4 cxd4 13. Nxd4 Nxd4 14. cxd4 O-O 15. Ba3 Re8 16. Qb3)  (6... Be6 7. Nh3 Qh4+ 8. g3) 7. d4 c5 8. Bd3 cxd4 (8... Nc6 9. Ne2 Be6 10. O-O Qd7 11. Qg3 O-O-O 12. Bb5 a6 13. Bxc6 Qxc6 14. Bg5 Bxg5 15. Qxg5 cxd4 16. cxd4 Kb8 17. c3) 9. cxd4 Qa5+? 10. Bd2 Bb4 11. Rd1 Bxd2+ 12. Rxd2 Nc6 13. Ne2 Nb4 14. O-O O-O 15. Ng3 Qb6 { Perelshteyn-Gledura (2018) and now an improvement is } 16. Bf5 { With ideas of
+c2-c3, Qg4 and a kingside attack. } *
+
+
+[Event "Gotham's 1. e4: --- Vienna System"]
+[Site "https://lichess.org/study/ppX6nEGb/klZcQHHl"]
+[Date "2019.11.28"]
+[White "Chapter 2"]
+[Black "1. e4 e5 2. Nc3, f4/Bc4 lines"]
+[Result "*"]
+[Annotator "Gotham"]
+[UTCDate "2021.06.13"]
+[UTCTime "10:29:44"]
+[Variant "Standard"]
+[ECO "C24"]
+[Opening "Bishop's Opening: Vienna Hybrid"]
+
+1. e4 e5 2. Nc3 Nc6 { So here's the deal. I would recommend 3. Bc4 here, but
+the problem is that after Nf6 d3, Na5 is just a perfectly reasonable move. I'm
+going to show you both options, and ultimately allow you to choose. } (2... Bc5 3. Nf3 d6 4. Na4 Nf6 5. Nxc5 dxc5) 3. Bc4 { In a perfect world, we'll play d3, f4, Nf3, and castle. Unfortunately,
+Black can just play Nf6 and Na5. } (3. f4 { This is a delayed King's Gambit, and unless Black is booked to the teeth, you
+can get a very comfortable position very quickly. The ultra-theory goes: } 3... exf4 { Accepting the
+gambit is no joke. This leads to crazy variations and you have to remember
+your lines. } (3... d6 { The declining of the gambit just leads to a supremely
+easy position for White, with Nf3, Bb5, and a quick castle. } 4. Nf3 Bg4 5. Bb5 a6 6. Bxc6+ bxc6 7. h3 Bxf3 8. Qxf3)  (3... Nf6 4. fxe5 Nxe5 5. d4)  (3... Bc5 4. Nf3 d6 5. Bb5 Ne7 6. Na4 { We can also hunt the bishop! }) 4. Nf3 g5 (4... d6 5. d4 g5 6. d5 Ne5 7. Bb5+ Bd7 8. Bxd7+ Nxd7 9. h4 g4 10. Nd4 Qf6 11. Ncb5) 5. h4 { From a logical standpoint this move seems to be the only one. There are
+others however. } (5. d4 g4 6. Bc4 { I dare you - prove your point! } 6... gxf3 7. O-O { This looks incredibly tempting for a second but it kind of sucks - again, if
+Black is prepared. } (7. Qxf3 Qh4+ 8. g3 Nxd4 9. Qf2 Qf6 10. Bxf4 Bb4 11. e5 Qc6 12. O-O-O Bxc3 13. Bxf7+ Kxf7 14. bxc3 Nf3 15. Rhf1 { OK, we're at the end of
+the chaos. White wants to push e6+, play Rd3 or Qe3, and take the knight with
+the f1-rook. Black's got a wide-open king on f7 despite his material advantage.
+Disregard the computer for a second and try to visualize how on earth Black is
+going to consolidate. }) 7... fxg2 (7... Nxd4 8. Bxf4 Bc5 9. Kh1 d6 10. b4 Bb6 11. Nd5 fxg2+ 12. Kxg2 { If this looks suspicious it's because it is. But again,
+Black needs to avoid a lot of traps. } 12... Ne6 13. Qf3) 8. Rxf4)  (5. g3 { This one
+baits g4 but has a twist. } 5... g4 6. Nh4 f3 7. d4 { Now Black isn't breaking in. } 7... d6 8. Be3 Be7 9. Qd2 Bxh4 10. gxh4 Qxh4+ 11. Bf2 { White's actually doing fine
+here. } 11... Qh6 12. Qxh6 Nxh6 13. Nd5 Kd7 14. Kd2) 5... g4 6. Ng5 h6 7. Nxf7 Kxf7 8. d4 d5 (8... f3 9. Bc4+ Kg7 10. gxf3 Be7 11. Be3 { And... total insanity. }) 9. Bxf4 { White needs to keep developing and pressuring the center with his
+remaining pieces. Letting the computer run at a high depth here is, again, an
+option...but our opponents do not have computers or infinite time. It's
+incredibly tough to deal with White's incoming assault. } 9... Nf6 10. Nxd5 (10. exd5 Nxd5 (10... Bd6 11. Bxd6 Qxd6 12. dxc6) 11. Bc4 Be6 12. O-O { And Black's
+already dead. }) 10... Nxd5 11. Bc4 Be6 12. exd5 Bxd5 13. O-O) 3... Nf6 (3... Bc5 { Symmetry is a mistake! } 4. Qg4 Qf6 (4... g6 5. Qf3 Nf6 6. Nge2 d6 7. d3 Bg4 8. Qg3 { [%cal Rc1g5] }) 5. Nd5 Qxf2+ 6. Kd1 Kf8 7. Nh3 Qd4 8. d3 d6 9. Qf3 Bxh3 10. Rf1 Be6 11. c3) 4. d3 Na5 { Against this I'll recommend... } (4... Bb4 { A smart player will pin this
+knight in order to push d7-d5 instantly given the pin. I'll show you what to
+do in case d5 happens or doesn't. } 5. Ne2 d5 (5... O-O 6. O-O d6 (6... h6 7. a3 Be7 8. f4) 7. Bg5 { Now Nd5 simply comes. Also, f2-f4. }) 6. exd5 Nxd5 7. O-O Be6 8. a3 Bxc3 9. bxc3 O-O 10. a4 { We have two bishops and an open b-file so
+we try to use it. Objectively still equal though. })  (4... Bc5 { While Bc5 is
+natural it kind of gives us the perfect set-up. } 5. f4 d6 6. Nf3 Ng4 (6... Bg4 7. Na4 { Keep this in mind! } 7... O-O 8. Nxc5 dxc5 9. O-O Nd4 10. c3 Nxf3+ 11. gxf3 Bh3 12. Rf2 exf4 13. Bxf4)  (6... O-O 7. Na4 Bg4 8. Nxc5 dxc5 9. O-O Qd6 10. Qd2 Bxf3 11. gxf3 Rad8 12. Kh1 Nh5 13. fxe5 Nxe5 14. Qg5 Nxc4 15. Qxh5 Ne5 16. f4) 7. Ng5 O-O 8. f5 { A nice trick to close the diagonal and the center. } 8... Nf2 9. Qh5) 5. Qf3 Nxc4 6. dxc4 Bc5 (6... d6 7. h3 Be6 8. b3 Be7 9. Nge2 O-O 10. O-O) 7. Be3 Bxe3 8. Qxe3 O-O 9. h3 d6 10. b3 Be6 11. Nge2 *
+
+
+[Event "Gotham's 1. e4: * Sicilian Defence *"]
+[Site "https://lichess.org/study/ppX6nEGb/OqX2OF7w"]
+[Result "*"]
+[UTCDate "2021.06.15"]
+[UTCTime "03:15:25"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/vikramsingh0309"]
+
+*
+
+
+[Event "Gotham's 1. e4: --- 2. ... Nc6: Rossolimo Attack"]
+[Site "https://lichess.org/study/ppX6nEGb/MgpqettO"]
+[Result "*"]
+[UTCDate "2021.06.13"]
+[UTCTime "10:37:07"]
+[Variant "Standard"]
+[ECO "B31"]
+[Opening "Sicilian Defense: Nyezhmetdinov-Rossolimo Attack, Fianchetto Variation"]
+[Annotator "https://lichess.org/@/vikramsingh0309"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 { Rossolimo Attack } 3... g6 { Finachetto Variation } (3... d6 { Transposes to Moscow })  (3... e6) *
+
+
+[Event "Gotham's 1. e4: --- 2. ... d6: Moscow Attack"]
+[Site "https://lichess.org/study/ppX6nEGb/XK0i8q7x"]
+[Result "*"]
+[UTCDate "2021.06.13"]
+[UTCTime "10:46:30"]
+[Variant "Standard"]
+[ECO "B51"]
+[Opening "Sicilian Defense: Moscow Variation"]
+[Annotator "https://lichess.org/@/vikramsingh0309"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ { Moscow Attack } *
+
+
+[Event "Gotham's 1. e4: * The Caro Kann *"]
+[Site "https://lichess.org/study/ppX6nEGb/IZ2IkN57"]
+[Result "*"]
+[UTCDate "2021.06.15"]
+[UTCTime "03:14:47"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/vikramsingh0309"]
+
+*
+
+
+[Event "Gotham's 1. e4: --- Tal Variation"]
+[Site "https://lichess.org/study/ppX6nEGb/VQbSj04j"]
+[Date "2019.11.30"]
+[White "Chapter 12"]
+[Black "1. e4 c6 Advance w/ Bf5"]
+[Result "*"]
+[Annotator "Gotham"]
+[UTCDate "2021.06.13"]
+[UTCTime "10:29:44"]
+[Variant "Standard"]
+[ECO "B12"]
+[Opening "Caro-Kann Defense: Advance Variation, Tal Variation"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 { The main line. I am going to recommend h2-h4,
+which in my opinion is the most critical and challenging option of Black's
+setup. There is also the Short System of Nf3/Be2, but there is a ton of
+flexibility for both sides and the move-orders are quite murky. } 4. h4 { The 'anti-e6' move. Your idea is to go g4-h5. Black can play h5, h6, and a few
+other random moves. } 4... h5 (4... h6 5. g4 Bd7 { This is the main move, but not
+everybody might know that. Black accepts a passive position and tries to fight
+the massive pawn expansion. } (5... Be4 { Sometimes Black plays this to induce
+f3 before going back to h7. } 6. f3 Bh7 7. e6 { A smart positional sacrifice. } 7... Qd6 (7... fxe6 8. Bd3 Bxd3 9. Qxd3) 8. exf7+ Kxf7 9. f4 Nf6 10. Nf3 Nxg4 11. h5 Ke8 12. Ne5 Nxe5 13. fxe5 Qe6 14. Nc3 Na6 { Grasso-Khamrakulov, 2019 } 15. Bh3)  (5... Bh7 6. e6 Qd6 7. exf7+ Kxf7 8. g5 Bf5 9. Bh3 Bxh3 10. Qf3+ Ke8 11. Nxh3) 6. Nc3 { A flexible and smart move. Again, Black has options. } 6... e6 (6... Qc8 7. Be2 e6 8. Be3 c5 9. Nf3 cxd4 10. Nxd4 Nc6 11. f4) 7. Be3 Qb6 8. Na4 Qa5+ 9. c3 b5 10. Nc5 Bxc5 11. dxc5)  (4... Qb6 5. Nc3 h5 6. Nge2 e6 7. Ng3 Bg6 8. Be2) 5. Bd3 (5. Bg5 { Very tricky alternative. I cannot quite recommend it due to
+Black's ability to get out unharmed, but still worth a shot. } 5... Qb6 6. Bd3 Qxd4 (6... Bxd3 7. Qxd3 Qxb2 8. e6 Qxa1 9. Qb3 Qxd4 10. Qxb7 fxe6 11. Qxa8 Qb6 12. Nd2 Nf6 13. Ngf3 Qc7 14. Be3) 7. Nf3 Qg4) 5... Bxd3 6. Qxd3 e6 (6... Qa5+ 7. Nd2 { [%cal Re5e6] } 7... e6 8. Ne2 Qa6 9. c4 c5 10. dxc5 Nc6 11. Qc3 dxc4 12. b4 cxb3 13. axb3 Qb5 14. Ba3 Nge7 15. Nc4 Nd5 16. Qg3 g6 { Nakamura - Svane 2019 } 17. O-O) 7. Bg5 Qb6 (7... Be7 8. Nf3 Nh6 9. c4 dxc4 10. Qxc4 Nd7 11. Nc3 Nf5 12. Rd1 Nb6 13. Qb3 Qc7 14. O-O Rd8 15. Bxe7 Qxe7 16. g3 O-O 17. Ne4 Rd5 18. Rd3 Rfd8 19. Rfd1) 8. Nd2 c5 (8... Nd7 9. Ngf3 Ne7 10. O-O Nf5 11. c4) 9. c4 Qxb2 10. Rd1 Qxd4 11. Qb3 Qxe5+ 12. Ne2 Qc7 13. cxd5 exd5 14. O-O { And White's
+attacking possibilities are tremendous. } 14... d4 15. Rfe1 Be7 16. Nc4 *
+
+
+[Event "Gotham's 1. e4: --- Botvinnik-Carls"]
+[Site "https://lichess.org/study/ppX6nEGb/x91oRST3"]
+[Date "2019.12.05"]
+[White "Chapter 11"]
+[Black "1. e4 c6 Advance w/ c5"]
+[Result "*"]
+[Annotator "Gotham"]
+[UTCDate "2021.06.13"]
+[UTCTime "10:29:45"]
+[Variant "Standard"]
+[ECO "B12"]
+[Opening "Caro-Kann Defense: Advance Variation, Botvinnik-Carls Defense"]
+
+1. e4 c6 { This was a bittersweet chapter for me since I love the Caro so much.
+However, I'm going to provide two distinct weapons to challenge it. } 2. d4 d5 (2... g6 3. c4 Bg7 4. Nc3 d5 5. e5) 3. e5 { The Advance caro. In this chapter
+we'll cover c6-c5, wasting a tempo but hoping for c2-c3 and to achieve a
+French structure with the LSB out on f5/g4. Alternatives to c5/Bf5 will also
+be covered. Bf5 is covered in the next chapter. } 3... c5 (3... g6 { Entering this
+c6-g6 setup after d5 is fine. I prefer to play: } 4. c4 Bg7 5. Nc3 Nh6 6. h3 O-O 7. Nf3 f6 8. Bf4 fxe5 9. Bxe5 Bxe5 10. dxe5 Be6 11. Qd2 Nf7 12. Nd4 Qd7 13. f4) 4. dxc5 { Now Black chooses between Nc6 and e6. } 4... Nc6 { There is a LOT of theory
+here. White can play Bb5, Nf3, a3, Bf4... but I choose a very unexplored
+option with simple development and spatial advantage. } (4... e6 5. a3 { A
+strange-looking move, but basically we want to play b4! } 5... Bxc5 (5... Nc6 { Some people throw in Nc6 before they take on e5. } 6. Nf3 Bxc5 7. b4) 6. Nf3 { Delaying b4 for now, and our development plan is: 0-0, b4, Bb2, only then
+deciding what to do with the b1-knight, and likely pushing c4. A sample game... } 6... Ne7 (6... Nc6 7. b4 Bb6 8. Bb2 Nge7 9. Bd3 O-O 10. b5 Na5 11. Bxh7+ Kxh7 12. Ng5+ Kh6 13. Bc1) 7. Bd3 Ng6 (7... O-O 8. b4 Bb6 9. Bxh7+) 8. O-O Nc6 (8... O-O 9. Ng5 Be7 10. Qh5 Bxg5 11. Bxg5 Qb6 12. Nd2 Qxb2 13. Nf3 Nc6 14. Bd2) 9. b4 Bb6 10. Bb2 Nf4 11. c4 Nxd3 12. Qxd3 dxc4 13. Qxc4 Ne7 14. Nc3 Bd7 15. Qg4 Bc6 16. Rad1 Qc7 17. Ng5 { Karjakin-Topalov, 2017 }) 5. f4 { The best move after f4
+is actually the slightly counterintuitive e7-e6. If Black doesn't play e6 or
+Nh6, he can get in trouble quickly. } 5... e6 (5... Nh6 6. c3 e6 7. Be3 Nf5 (7... b6) 8. Bf2 g5 9. Bd3 gxf4 10. Bxf5 exf5 11. Nh3)  (5... Bf5 6. Nf3 e6 7. Be3 Qa5+ 8. c3) 6. Be3 d4 (6... Nh6 7. c3) 7. Bf2 Bxc5 8. Nd2 Nge7 9. a3 (9. Bd3 Nd5 10. Ne2 Ne3 11. Bxe3 dxe3 12. Ne4 Be7 13. c3) 9... Nd5 10. Ne4 Qa5+ 11. b4 Ncxb4 12. axb4 Qxb4+ 13. Qd2 Qb2 14. Qc1 Qb4+ 15. Kd1 Nc3+ 16. Nxc3 dxc3 17. Rb1 { Dominguez Perez - Navara, STL Blitz 2017 } *
+
+
+[Event "Gotham's 1. e4: * The Rest *"]
+[Site "https://lichess.org/study/ppX6nEGb/Kzb1cCvi"]
+[Result "*"]
+[UTCDate "2021.06.15"]
+[UTCTime "03:19:13"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/vikramsingh0309"]
+
+*
+
+
+[Event "Gotham's 1. e4: --- French Defense: Two Knights System"]
+[Site "https://lichess.org/study/ppX6nEGb/HDY5vgfy"]
+[Date "2019.11.30"]
+[White "Chapter 10"]
+[Black "1. e4 e6 -- 2 Knights System"]
+[Result "*"]
+[Annotator "Gotham"]
+[UTCDate "2021.06.13"]
+[UTCTime "10:29:44"]
+[Variant "Standard"]
+[ECO "C00"]
+[Opening "French Defense: Two Knights Variation"]
+
+1. e4 e6 2. Nf3 { I also would like to recommend 2. Nf3, but you must remember
+that d7-d5 is not guaranteed. For instance, Black can play c7-c5, and now your
+way of getting back to our repertoire would be b3, but you take away f2-f4. } 2... d5 (2... c5 3. d4 cxd4 4. Nxd4 Nc6) 3. Nc3 { Most folks here play Nf6, but there are more choices. } 3... Nf6 (3... dxe4 4. Nxe4 Nd7 (4... Nf6 5. Nxf6+ Qxf6 6. d4 Nc6 7. Bd3 Bd6?? (7... Nxd4?? 8. Nxd4 Qxd4?? 9. Bb5+ Qd7 10. Bxd7+ Bxd7) 8. Bg5) 5. d4 Ngf6 6. Nxf6+ Nxf6 7. Bd3)  (3... d4 4. Ne2 c5 { [%csl Gc3] } 5. c3 (5. Ng3 Nc6 6. Bc4 Nf6 7. d3 Bd6 8. Qe2 e5 9. Bg5) 5... Nc6 (5... Nf6 6. e5 Nfd7 7. cxd4 cxd4 8. Nexd4 Nxe5 9. Bb5+ Nec6 10. O-O Be7 11. Nc2 O-O 12. d4 a6 13. Bd3 Nd7 14. Qe2 Nf6 15. Bf4) 6. cxd4 cxd4 7. Qa4 Bc5 (7... Bd7 8. Nexd4 a6 9. Qb3 Nxd4 10. Nxd4 Bc5 11. Nf3 Nf6 12. d3) 8. b4 Bxb4 (8... Bb6 9. b5) 9. Nexd4 Ne7 (9... Qa5 10. Qxa5 Bxa5 11. Nxc6 bxc6 12. Ba3 Ne7 13. Ne5 Bc7 14. Nc4))  (3... c5 4. exd5 exd5 5. Bb5+ Nc6 6. O-O Nf6 7. d4 Be7 8. dxc5 O-O 9. Bg5 Bg4 10. h3 Bh5 11. Bxf6 Bxf6 12. Qxd5 Qxd5 13. Nxd5 Bxb2 14. Rab1 Ba3 15. g4 Bg6 16. Bxc6 bxc6 17. Ne7+ Kh8 18. Nxg6+ fxg6 19. Ne5) 4. e5 Nfd7 (4... Ne4 5. Ne2 { Retreating and trapping the Ne4. } 5... Bc5 6. d4 Be7 7. Ng3 c5 8. Bd3) 5. d4 (5. Ne2 c5 6. c3 Nc6 7. d4 Qb6 (7... Be7 8. a3 Qb6 9. b4)  (7... cxd4 8. cxd4 Bb4+ 9. Nc3) 8. a3 Be7 9. g3) 5... c5 6. dxc5 Bxc5 (6... Nc6 7. Bf4 Nxc5 8. h4 a6 9. a3 b5 10. h5 h6 11. Rh3 Bb7 12. b4 Ne4 13. Nxe4 dxe4 14. Nd2 Qd4 15. c3 Qd5 16. c4 bxc4 17. Nxc4 Rd8 18. Nb6 Qxd1+ 19. Rxd1 Be7 20. Rg3) 7. Bd3 Nc6 8. Bf4 h6 (8... a6 9. Qe2)  (8... O-O 9. Bxh7+) 9. h4 a6 10. Qe2 b5 11. h5 Nb6 12. Rh3 Bd7 13. Rg3 Bf8 14. Kf1 Qc7 15. Kg1 *
+
+
+[Event "Gotham's 1. e4: --- Scandinavian: Mieses-Kotric Variation"]
+[Site "https://lichess.org/study/ppX6nEGb/MlOaqZ6i"]
+[Date "2019.12.05"]
+[White "Chapter 15"]
+[Black "1. e4 d5 - Scandinavian"]
+[Result "*"]
+[Annotator "Gotham"]
+[UTCDate "2021.06.13"]
+[UTCTime "10:29:45"]
+[Variant "Standard"]
+[ECO "B01"]
+[Opening "Scandinavian Defense: Mieses-Kotroc Variation"]
+
+1. e4 d5 2. exd5 Qxd5 { The Scandinavian! Preparing against this opening is not
+trivial. I'm going to recommend the flexible Nf3 system, where we hope to
+develop with Be2, 0-0, d4/c4, and so on. } (2... Nf6 3. Nf3 Nxd5 4. d4 Bg4 5. Be2 e6 6. O-O) 3. Nf3 { The Scandi has various set-ups for Black and general
+ideas to follow. A lot depends which way castling occurs and how the LSB
+develops, but overall White's ideas are the same. } 3... Bg4 (3... Nf6 4. d4 Bg4 5. Be2 Nc6 (5... e6 6. O-O Be7 7. h3 Bh5 8. c4 Qd8 9. Qb3) 6. O-O O-O-O 7. Be3 e5 (7... Qf5)  (7... e6 8. c4 Qh5 (8... Qd7 9. Qb3) 9. Nbd2 Bd6 10. h3 Bxh3 11. Ne5 { Not taking on h3! } 11... Qh4 12. g3 { Still not taking! }) 8. c4 Qa5 9. d5) 4. Be2 Nc6 { In this set-up, it's clear that Black is about to castle queenside, so there
+is no point in us going d4 to give them a target. Let's just castle and go
+from there. } (4... Nf6) 5. O-O O-O-O 6. h3 Bh5 7. Nc3 Qa5 (7... Qd7 8. b4 { A stunning
+idea. } 8... Nxb4 (8... e6 9. b5 Bxf3 10. Bxf3 Nd4 11. Rb1 Nf6 12. d3 Kb8 13. a4 Rg8 14. Be3 Be7 15. a5 { Ponomariov-Fressinet, 2016 }) 9. Ne5 Bxe2 10. Qxe2 Qe6) 8. a3 Nf6 9. d3 e5 10. Be3 { With ideas of b2-b4. } *
+
+
+[Event "Gotham's 1. e4: --- Modern Defence"]
+[Site "https://lichess.org/study/ppX6nEGb/njxZ101u"]
+[Date "2019.11.30"]
+[White "Chapter 13"]
+[Black "1. e4 g6, with Nf3"]
+[Result "*"]
+[Annotator "Gotham"]
+[UTCDate "2021.06.13"]
+[UTCTime "10:29:44"]
+[Variant "Standard"]
+[ECO "B06"]
+[Opening "Modern Defense"]
+
+1. e4 g6 2. d4 Bg7 3. Nf3 { The Modern. Black can now play d7-d6, c7-c6, or
+c7-c5 (The Sniper). There are some small other various alternatives (a6, b6,
+etc). } 3... d6 (3... c6 4. Nc3 d5 5. h3 { Best way to play this position,
+restricting the c8-bishop. } 5... Nf6 6. e5 Ne4 7. Nxe4 dxe4 8. Ng5 c5 9. dxc5 Qxd1+ 10. Kxd1 Bxe5 11. Nxe4 Bf5 12. Bd3 Nd7 13. Re1)  (3... c5 { The "Sniper", trying
+to activate the g7 bishop. Actually this isn't particularly good at all. } 4. dxc5 Qa5+ 5. c3 Qxc5 6. Na3 { A creative move, aiming for Nb5 and Be3. } 6... Nf6 7. e5 Ng4 8. Qd4 Qxd4 9. cxd4 { On the surface this position doesn't look that
+dangerous for Black. White wants to play Nb5, of course, and h3 to force the
+Knight back. From there, we will target Black's weaknesses. }) 4. Bc4 { This
+idea is creative - basically we want 0-0, Qe2, Rd1, and a moment to go e4-e5. } 4... Nf6 5. Qe2 O-O 6. e5 dxe5 7. dxe5 Nd5 8. h3 c6 9. O-O Be6 (9... Nd7 10. Re1 N7b6 11. Bb3 Bf5 12. Nd4)  (9... Qc7 10. Re1 Bf5 11. Nc3 Nxc3 12. bxc3)  (9... Bf5 10. Rd1 Qc7 11. Nc3 Nxc3 12. bxc3 Nd7 13. e6 Nb6) 10. Bd2 Nd7 11. Nc3 N7b6 12. Bb3 a5 13. a4 Qc7 { A relatively balanced position. White will continue
+with Rfe1/Rad1 and proceed to maneuver with the knights to e4/d4 to pressure
+Black's position. Also, a5 will be liable. } *
+
+
+[Event "Gotham's 1. e4: --- Pirc/Philidor"]
+[Site "https://lichess.org/study/ppX6nEGb/gJak49JG"]
+[Date "2019.12.05"]
+[White "Chapter 14"]
+[Black "1. e4 d6, Pirc/Philidor "]
+[Result "*"]
+[Annotator "Gotham"]
+[UTCDate "2021.06.13"]
+[UTCTime "10:29:45"]
+[Variant "Standard"]
+[ECO "B07"]
+[Opening "Pirc Defense"]
+
+1. e4 d6 2. d4 Nf6 { This move-order allows the Pirc (g6), the Pribyl/Pirc (c6/
+g6), and the Phillidor (early e5, with Nbd7). I'll give you antidotes to them
+all. } 3. Nc3 g6 (3... c6 4. h3 Qa5 { Now we can't get g4. } 5. Bd3 e5 6. Nf3 Nbd7 7. O-O Be7 8. Be3 O-O 9. a4 exd4 10. Nxd4 Nc5 11. f4 Nxd3 12. cxd3)  (3... e5 { Against the Phillidor, I also recommend Nge2, h3, g4. } 4. Nge2 Be7 (4... Nbd7 5. h3 c6 6. g4 Be7 7. Bg2 O-O 8. O-O b5 9. a3 Bb7 10. Ng3 exd4 11. Qxd4 c5 12. Qe3) 5. h3 O-O 6. g4 exd4 7. Qxd4 { Allowing Nc6 isn't an issue. We had to stop
+d5. } 7... Nc6 8. Qd2 Be6 9. Bg2 { with f4 and castling to come. } { [%cal Gf2f5,Ge1g1] }) 4. h3 { h3 is quite cryptic, but the idea is quite a nice one. } 4... Bg7 5. g4 O-O 6. Bg2 e5 (6... c5 7. dxc5 Qa5 8. cxd6 Nxe4 9. Bxe4 Bxc3+ 10. bxc3 Qxc3+ 11. Bd2 Qe5 12. f3 f5 13. gxf5 gxf5 14. Ne2 fxe4 15. Rg1+ Kf7 16. Bf4) 7. Nge2 Nc6 8. Be3 exd4 9. Nxd4 Re8 10. O-O Bd7 11. Nde2 { I like this retreating idea. Black
+doesn't have much control over the center, and we will go f2-f4, Ng3, and
+advance on the kingside. } 11... a6 12. f4 b5 13. Ng3 b4 14. Nce2 { We've escaped the
+queenside initiative and now will launch a strike on the enemy king. If Black
+does nothing, our pawns fly forward, so the critical reply would be to
+sacrifice on g4 or lash out with h5. } 14... Bxg4 (14... h5 15. gxh5 gxh5 (15... Nxh5 16. Nxh5 gxh5 17. Ng3 Qh4 18. Rf3 { With Bf2 coming, kicking the queen out. }) 16. Nd4 Nxd4 17. Bxd4 c5 18. e5) 15. hxg4 Nxg4 16. Qd3 Qh4 17. Rf3 { And
+there's no mate. } 17... Nh2 18. Rf2 Ng4 19. e5 { Crashing through the center, not
+repeating! } 19... Ncxe5 20. fxe5 Rxe5 21. Bd4 Nxf2 22. Bxf2 { Of course, we have ran
+down the engine line very deeply (with some possible deviations on both sides),
+but this will likely not ever happen in an actual game. The point is, White's
+massive structure on the kingside is very promising in the early stages of the
+game, and can lead very quickly to some very strong attacks. } *
+
+
+[Event "Gotham's 1. e4: --- 1. ... b6/Nf6/Nc6"]
+[Site "https://lichess.org/study/ppX6nEGb/VT6YjYBQ"]
+[Date "2019.12.05"]
+[White "Chapter 16"]
+[Black "1. e4 b6/Nf6/Nc6 "]
+[Result "*"]
+[Annotator "levyo"]
+[UTCDate "2021.06.13"]
+[UTCTime "10:29:45"]
+[Variant "Standard"]
+[ECO "B00"]
+[Opening "Nimzowitsch Defense: French Connection"]
+
+1. e4 { This chapter is for all the rest - the knight moves and b6/a6/etc.
+Since there isn't a massive amount of theory anywhere in these lines, basic
+opening principles apply (taking the center, development, and so on...) and
+you can try to implement various ideas from other parts of the course. } 1... Nc6 { With this move, Black hopes that you will play d4, get met with d7-d5, and an
+immediate fight will ensue. I recommend we proceed with } (1... Nf6 { Alekhine
+is a tricky one. On the one hand, we can play Nc3 and hope for a transposition,
+but then Black can simply play d5 and get a position they are used to. On the
+other hand, entering the wild territory of the Alekhine can be dangerous if
+unprepared. I will show you a few options. } 2. e5 (2. Nc3 d5 3. exd5 Nxd5 4. Bc4 Nb6 5. Bb3 Nc6 6. Qf3 e6 7. Nge2 Be7 8. d3 O-O 9. O-O) 2... Nd5 3. c4 Nb6 4. a4 (4. c5 Nd5 5. Nc3 Nxc3 (5... e6 6. d4 d6 7. cxd6 cxd6 8. Nf3 Nxc3 9. bxc3 Qc7 10. Bd2 Nc6 11. exd6 Bxd6 12. Bd3) 6. dxc3 e6) 4... a5 (4... d5 5. c5 N6d7 6. d4 b6 7. b4 a5 8. e6 fxe6)  (4... d6 5. exd6 cxd6 6. a5 N6d7 7. d4) 5. Ra3 { Inspired by Jeroen Bosch's article in SOS/New in Chess, I'm sharing this idea
+with you. } 5... e6 6. Rg3 { This will both insult your opponent and give you strong
+attacking chances. })  (1... b6 { Owen's defense. Simplest set-up is } 2. d4 Bb7 3. Bd3 e6 4. Nf3 c5 (4... Nf6 5. e5 Ne4 6. O-O)  (4... d5 5. exd5 Qxd5 6. c4 Qd8 7. Nc3) 5. c3 Nf6 6. Qe2 d5 7. e5 Nfd7 8. Ng5 Be7 9. f4 Nc6 10. Be3 h6 11. Nxe6 fxe6 12. Qh5+ Kf8 13. O-O) 2. Nc3 e6 (2... d6 3. d4 { And we can set-up with
+Nge2, h3, g4. }) 3. Nf3 d5 4. d4 Nf6 5. Bd3 Bb4 6. O-O Bxc3 7. exd5 Nxd5 (7... Bxd4 8. dxc6 Bb6 9. Ne5 bxc6 10. a4 a5 11. Qf3 Qd5 12. Qg3) 8. bxc3 Nxc3 9. Qd2 Nd5 10. c4 Nde7 11. Bb2 *
+
+
+[Event "Gotham's 1. e4: --- King's Knight - Other Variations"]
+[Site "https://lichess.org/study/ppX6nEGb/c3fklS3M"]
+[Result "*"]
+[UTCDate "2021.06.13"]
+[UTCTime "10:47:32"]
+[Variant "Standard"]
+[ECO "C42"]
+[Opening "Russian Game"]
+[Annotator "https://lichess.org/@/vikramsingh0309"]
+
+1. e4 e5 2. Nf3 { [%cal Gf7f5] } 2... Nf6 { Petrov } (2... d6 { Phillidor }) *
