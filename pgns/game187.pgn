@@ -1,0 +1,11 @@
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+
+1. Nf3 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. d4 O-O 6. Be2 Nbd7 7. h3 e5 8. d5 Nc5 9. Qc2 a5 10. g4 c6 11. Be3 cxd5 12. cxd5 b6 13. a3 Bd7 14. a4 Rc8 15. Nd2 Ne8 16. Rg1 Bf6 17. Nc4 Rb8 18. g5 Be7 19. h4 Nc7 20. f4 exf4 21. Bxf4 N7a6 22. Ra3 Nb4 { [%cal Ge7h4] } 23. Qd2 f6 $1 { White's king is exposed in the center and the best way to exploit it is to open up the position. } 24. Bh2 fxg5 25. hxg5 Bxa4 $5 26. Rxa4 b5 27. Nxa5 bxa4 28. Nc6 Nb3 29. Qd1 Nxc6 30. dxc6 Qb6 { Black is a solid exchange up and has a strong attack. I misplayed it later on and missed some winning chances. } 31. Qd5+ Kh8 32. Rg2 Qe3 { [%cal Ge3c1] } 33. Bg1 Qc1+ $2 { Looks strong, but the queen sort of trapped itself and can no longer provide backup to White's attack on my king. } 34. Nd1 Rb4 35. Be3 Qc2 36. Rg4 Kg7 37. Qe6 Nd4 $3 { The best defense is a strong offense!!
+[%csl Gd4] } 38. Qxe7+ Rf7 { And double attack on the queen and checkmate. White must give up the queen now.
+[%cal Gc2e2] } 39. Bxd4+ Rxd4 { [%csl Gd2] } *

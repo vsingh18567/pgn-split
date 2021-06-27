@@ -31,6 +31,8 @@ class PgnSplitter:
             end = True
         while not end:
             line = f.readline()
+            if f.readline() == "":
+                return "EOF"
             game += line
             if "*" in line:
                 end = True
@@ -44,6 +46,7 @@ class PgnSplitter:
                 a = self.get_game(f)
                 game = pgn.read_game(io.StringIO(a))
                 self.parse_game(game)
+
 
 
     def parse_game(self, game: pgn.GameNode):
@@ -73,14 +76,17 @@ class PgnSplitter:
 
     def write_game(self, string):
         filepath = f"pgns/game{self.counter}.pgn"
-        file_exists = os.path.isfile(filepath)
-        if file_exists:
-            os.remove(filepath)
+        if not os.path.isdir("./pgns"):
+            os.mkdir("pgns")
+        elif os.path.isfile(filepath):
+                os.remove(filepath)
         with open (filepath, "w") as f:
             f.write(string)
+        
+        print(f"PGN {self.counter} created")
         self.counter += 1
 
 
-PgnSplitter('lichess2.pgn')
+PgnSplitter('sample.pgn')
 
 

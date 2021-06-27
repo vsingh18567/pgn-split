@@ -1,0 +1,9 @@
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+
+1. d4 Nf6 2. c4 d6 3. Nc3 e5 { 3. g6 would transpose to a normal King's Indian. However, my recommended move order avoids the sharper Saemisch and 4 Pawns attack. } 4. e4 $5 { Saemisch players cannot reach their preferred move order with 4. e4 because Black has the option of playing exd4, forcing the White queen out. } 4... exd4 5. Qxd4 Nc6 6. Qd1 g6 *

@@ -1,0 +1,9 @@
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+
+1. d4 Nf6 2. c4 d6 3. Nc3 e5 4. d5 { This is the other major response against 3. e5. I recommend simply going into a fianchetto line and preparing f5 with a kingside pawn rush. Also, the c5 square is a potential outpost for Black's knights, so the idea of a5 followed by Na6 or Nbd7 to c5 is often played. } 4... g6 5. e4 Bg7 6. f3 O-O 7. Be3 Nh5 8. Qd2 Nd7 9. O-O-O { This setup has given me lots of trouble in practice. White's king is fairly safe on the queenside, so it will be hard to say Black can win the pawn race. Often, your attack will have to involve a pawn sacrifice to gain time with a6 + b5. } 9... f5 10. Bd3 a6 11. Nge2 b5 $5 { An interesting pawn break to speed up the attack. Otherwise, standard strategies such as Rb8 and Bd7 to prepare b5 are a tad slow. } 12. cxb5 axb5 *

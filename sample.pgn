@@ -1,0 +1,810 @@
+[Event "🏆 King's Indian Defense Repertoire 🏆: King's Indian Intro"]
+[Site "https://lichess.org/study/NlFMirvk/pSLzeUlq"]
+[Result "*"]
+[Annotator "https://lichess.org/@/Mr_Penings"]
+[UTCDate "2020.06.19"]
+[UTCTime "12:09:12"]
+[Variant "Standard"]
+[ECO "E94"]
+[Opening "King's Indian Defense: Orthodox Variation, Positional Defense"]
+
+{ Hi folks! This is Mr_Penings' back again with Opening Guide #3, the popular Kings Indian! Check out my Sicilian Kan and English guides if you haven't already. ❤️Please give this study a like (Heart) and share with others! }
+1. d4 Nf6 2. c4 d6 { This move order will save you lots of time studying many of the extensive lines in the King's Indian. See below } 3. Nf3 g6 { The Kings Indian is a flexible opening setup that leads to imbalanced and sharp positions from the beginning. It can be played against virtually all lines except 1. e4. } 4. Nc3 Bg7 5. e4 O-O 6. Be2 { This is the typical King's Indian. You may be wondering.. Why 2. d6 instead of 2. g6? This is my opening move order to avoid some of the very sharp and deep variations of the King's Indian, namely the Saemisch and 4 Pawns Attack. Although those lines are not worse for black, the lines are pretty extensive and it's easy for Black to get an inferior position if he doesn't play accurately. } 6... Nbd7 7. O-O e5 { This is my recommendation against the King's Indian. This line is more solid, but offers good imbalances for a sharp middlegame and good winning chances for Black. Often times, Black can play for an f5 pawn break to attack the White king. } { [%cal Gd8e7,Gc7c6,Ga7a5] } *
+
+
+[Event "🏆 King's Indian Defense Repertoire 🏆: ** Sample Game **"]
+[Site "https://lichess.org/study/NlFMirvk/upVRJNbx"]
+[Result "*"]
+[Annotator "https://lichess.org/@/Mr_Penings"]
+[UTCDate "2020.06.19"]
+[UTCTime "12:09:12"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+
+*
+
+
+[Event "Sinquefield Cup"]
+[Site "St Louis, MO USA"]
+[Date "2015.08.29"]
+[Round "6.4"]
+[White "Wesley So"]
+[Black "Hikaru Nakamura"]
+[Result "0-1"]
+[WhiteElo "2779"]
+[BlackElo "2814"]
+[Annotator "https://lichess.org/@/Mr_Penings"]
+[UTCDate "2020.06.19"]
+[UTCTime "12:09:12"]
+[Variant "Standard"]
+[ECO "E99"]
+[Opening "King's Indian Defense: Orthodox Variation, Classical System, Traditional Line"]
+
+{ To get us all in the mood for the excitement of learning the Kings Indian, let's go over arguably the best Kings Indian game ever played. Nakamura destroyed Wesley So in the 2015 Sinquefield Cup as Black in the Kings Indian. }
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. O-O (7. dxe5 { As you'll see below, dxe5 usually is harmless for Black. First of all, Black does not lose the pawn } 7... dxe5 8. Qxd8 Rxd8 9. Nxe5 Nxe4 { Black will regain the pawn and get lots of play down the long a1-h8 diagonal. }) 7... Nc6 8. d5 Ne7 9. Ne1 Nd7 10. f3 f5 { A thematic pawn storm on the kingside. You will see this often in the Kings Indian, as with this game! } 11. Be3 f4 12. Bf2 g5 13. Nd3 Ng6 14. c5 { It is a race. White's goal is to open up as many lines on the queenside to infiltrate there, while Black is going all out for checkmate. In practice, both sides have around an even score, which is why the Kings Indian is such a popular opening. } 14... Nf6 15. Rc1 Rf7 16. Kh1 h5 17. cxd6 cxd6 18. Nb5 a6 19. Na3 (19. Na7 Bd7 { So evidently decides the Knight on a7 will trap itself, so he retreats backwards, but it will come back in the game with Nc4 next. }) 19... b5 20. Rc6 g4 21. Qc2 Qf8 22. Rc1 Bd7 23. Rc7 Bh6 24. Be1 h4 { If White has no urgent threat on the queenside, usually Black will just continue pressing on the kingside. } 25. fxg4 f3 26. gxf3 Nxe4 { Completely breaking open White's shield of pawns. } (26... Bxc1 27. Qxc1 { Although this wins the exchange, it was not clear that White's Rc1 was stronger than the Bg5. }) 27. Rd1 (27. fxe4 Rf1+ 28. Kg2 (28. Bxf1 Qxf1#) 28... Be3 { Similar to what occurred in the game } 29. Bxf1 h3+ 30. Kg3 Qxf1 { Qg1 with mate to come soon }) 27... Rxf3 28. Rxd7 Rf1+ 29. Kg2 Be3 { The threat is Rg1+ Kh3 Ng5# } 30. Bg3 hxg3 31. Rxf1 Nh4+ 32. Kh3 Qh6 { Keeping the initiative. Even though this is not a check, Wesley cannot proceed with his own threats. } 33. g5 Nxg5+ 34. Kg4 Nhf3!! { Making room for the Queen on h3 } 35. Nf2 Qh4+ 36. Kf5 Rf8+ 37. Kg6 Rf6+ 38. Kxf6 Ne4+ 39. Kg6 Qg5# { As you can see, even super-Grandmasters have a hard time defending against the kingside pawn storm in the Kings Indian. } { 0-1 Black wins by checkmate. } 0-1
+
+
+[Event "🏆 King's Indian Defense Repertoire 🏆: ****   Sidelines   ****"]
+[Site "https://lichess.org/study/NlFMirvk/GnPkwVa1"]
+[Result "*"]
+[Annotator "https://lichess.org/@/Mr_Penings"]
+[UTCDate "2020.06.19"]
+[UTCTime "12:09:12"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+
+*
+
+
+[Event "🏆 King's Indian Defense Repertoire 🏆: Trompowsky d4 Nf6 Bg5"]
+[Site "https://lichess.org/study/NlFMirvk/hjW2xHtv"]
+[Result "*"]
+[Annotator "https://lichess.org/@/Mr_Penings"]
+[UTCDate "2020.06.19"]
+[UTCTime "12:09:12"]
+[Variant "Standard"]
+[ECO "A45"]
+[Opening "Trompowsky Attack"]
+
+1. d4 Nf6 2. Bg5 Ne4 (2... g6?! 3. Bxf6 exf6 { I do not recommend 2. g6 against the Trompowsky because of the annoying 3. Bxf6 line, which ruins Black's pawn structure and loss of a central pawn. }) 3. Bf4 (3. Bh4 { Bh4 is harmless since it basically gives up the bishop pair. Black can easily capitalize on it by opening up the central dark squares } 3... g5 4. Bg3 Bg7 5. e3 d5 6. Bd3 Nxg3 7. hxg3 c5 8. c3 Qb6 { White will struggle without a dark squared bishop once the position opens up. Black can consider playing e5 next with good prospects. }) 3... c5 4. f3 (4. d5 Qb6 5. Bc1 (5. b3?? Qf6 { Double attack })) 4... Qa5+ 5. c3 Nf6 6. Nd2 (6. d5 Qb6 7. Bc1 e6 8. e4 exd5 9. exd5 Bd6 10. c4 O-O 11. Nc3 Re8+ { White should not have any advantage here due to the weak f3 move. Black has no problems. } 12. Kf2 Be5) 6... cxd4 7. Nb3 { White's knight will end up awkward on b3, since this resembles an exchange Slav, where the knight will always prefer to be on c3 } (7. Nc4 Qd8 8. cxd4 d5 9. Ne5 Nc6 10. e3 e6 11. Bd3) 7... Qd8 8. cxd4 e6 9. e4 d5 10. e5 Nfd7 11. Bd3 Nc6 12. Ne2 a5 { Threatening a4, pushing the knight back. } 13. a4 Bb4+ 14. Bd2 O-O { This position is fairly balanced. The plan is to undermine White's structure with f6. } *
+
+
+[Event "🏆 King's Indian Defense Repertoire 🏆: d4 Nf6 Nc3"]
+[Site "https://lichess.org/study/NlFMirvk/E21PZ2T4"]
+[Result "*"]
+[Annotator "https://lichess.org/@/Mr_Penings"]
+[UTCDate "2020.06.19"]
+[UTCTime "12:09:12"]
+[Variant "Standard"]
+[ECO "D01"]
+[Opening "Richter-Veresov Attack"]
+
+1. d4 Nf6 2. Nc3 d5 (2... g6 { Playing Kings Indian style with 2. g6 will lead to a Pirc, which is the worse version of the Kings Indian. I recommend simply d5, which simply reduces the effect of the Nc3. } 3. e4) 3. Bg5 (3. Bf4 g6 { Transposes to the d4 Nf6 Bf4 g6 Nc3 line - See below for detailed analysis }) 3... Nbd7 { Here there are usually two ways White can continue: either with f3 or Nf3. } 4. f3 { The more dangerous of the two. White prepares e4 next with the full center. I do not recommend a fianchetto here for that reason. } (4. Nf3 { This line is pretty harmless. White cannot get a pawn center with e4 anytime soon. } 4... g6 5. e3 Bg7 6. Be2 O-O 7. O-O c6 8. h3 b5 { Kind of a dull position here. Around equal. The Nc3 is awkwardly placed, so naturally b5-b4 is a plan to gain space and then hop in to e4. }) 4... h6 (4... g6?! 5. e4 { And white gets a lot of space before you get castled. Avoid!! }) 5. Bh4 c5 { It is often the case that an early f-pawn push from your opponent must be punished with a strike in the center. c5 accomplishes that } 6. e3 (6. e4 dxe4 7. fxe4 Qb6)  (6. dxc5 e6 { The ugly f3 move comes back to haunt White. Black is better in any line here once the dark squares start opening up. Potential Qb6 and Bxc5 will be a nightmare for White }) 6... e6 { And it's hard for White to prove that an early f3 is a pro rather than a con here. Normal development should be fine for Black. Be on the watch for ambitious Qb6 ideas if the position calls for it. } *
+
+
+[Event "🏆 King's Indian Defense Repertoire 🏆: The dangerous d4 Nf6 Bf4 g6 Nc3"]
+[Site "https://lichess.org/study/NlFMirvk/UkCH650v"]
+[Result "*"]
+[Annotator "https://lichess.org/@/Mr_Penings"]
+[UTCDate "2020.06.19"]
+[UTCTime "12:09:12"]
+[Variant "Standard"]
+[ECO "A45"]
+[Opening "Indian Defense"]
+
+{ I will dedicate an entire chapter on this line because frankly, this line has caused me so much trouble in the past. This tends to be the choice of aggressive players who prefer a quick attack from the start. }
+1. d4 Nf6 2. Bf4 g6 3. Nc3 d5 { This move does stray away from standard kings indian positions, but playing Bg7 allows e4, and we reach a Pirc, an inferior version of the KID, and not preferable. } 4. e3 Bg7 5. h4 h5! { Black must play h5 here to stop White's h-pawn. 0-0 is a common mistake. } (5... O-O? { The classic trap. } 6. h5 Nxh5 7. Rxh5 gxh5 8. Qxh5 { This scores extremely well in practice for White, and if you analyze this position closely, it will make sense. Although Black is up an exchange (Rook for knight), none of Black's pieces are developed and White will castle long and play Rh1. Can Black even defend against mate?? } 8... c6 9. Bd3 f5 10. Nf3 Qe8 11. Qh2 Nd7 12. O-O-O Nf6 13. Rh1 { A sample game may play out like this: It's real tough... }) 6. Nf3 O-O 7. Be2 (7. Ne5 c5) 7... c5 { c5 + Nc6 to immediately contest the center seems to be the most effective. } 8. dxc5 { dxc5 is am ambitious try by White to win a pawn and hold on to it. However, it does open up the a1-h8 diagonal for Black's Kings Indian bishop.... } (8. Ne5 Nc6 9. Qd2 cxd4 10. exd4 Qb6 11. Nxc6 bxc6 { With good pressure on all sides of the board. d4 pawn is a good short term target. }) 8... Nbd7! { Inviting Nxd5, but... } 9. Nxd5 Nxd5 10. Qxd5 Qa5+ 11. Qd2 Qxd2+ 12. Nxd2 Bxb2 13. Rb1 Bc3 14. Rb3 Bxd2+ 15. Kxd2 Nxc5 { It's around even here. For the bishop pair, White has to be stuck with a weak isolated c2 pawn on an open file. } *
+
+
+[Event "🏆 King's Indian Defense Repertoire 🏆: Stonewall Attack (aka Nonexistent Attack)"]
+[Site "https://lichess.org/study/NlFMirvk/Hh6gsfH7"]
+[Result "*"]
+[Annotator "https://lichess.org/@/Mr_Penings"]
+[UTCDate "2020.06.19"]
+[UTCTime "12:09:12"]
+[Variant "Standard"]
+[ECO "A45"]
+[Opening "Indian Defense"]
+
+{ The Stonewall Attack is a sneaky attempt to launch a quick attack on Black's king. The highlight of the Stonewall is a potential strong knight planted on e5. This setup is completely harmless against the Kings Indian. Pay close attention and you will always defeat this opening. }
+1. d4 Nf6 2. e3 { White starts the pawn formation of f4, e3, d4, c3 } 2... g6 3. Bd3 Bg7 4. f4 O-O 5. Nf3 d6 6. O-O Nc6 7. c3 e5! { As with most lines in the Kings Indian, Black welcomes exchanges in the center because it just opens up the fianchetto bishop (Bg7) more. } 8. fxe5 (8. e4 exd4 9. cxd4 Bg4 { The d4 pawn is quite the liability for White. } 10. Be3 Nxe4! 11. Bxe4 Qe7 12. Nc3 d5 { White's pieces are completely tangled }) 8... dxe5 9. dxe5 (9. Nxe5 Nxe5 10. dxe5 Ng4 { Black stands much better with active pieces and a winning pawn structure }) 9... Ng4 { Black will ultimately regain the pawn on e5 } *
+
+
+[Event "🏆 King's Indian Defense Repertoire 🏆: London System (Harmless!)"]
+[Site "https://lichess.org/study/NlFMirvk/NAyIE6n2"]
+[Result "*"]
+[Annotator "https://lichess.org/@/Mr_Penings"]
+[UTCDate "2020.06.19"]
+[UTCTime "12:09:12"]
+[Variant "Standard"]
+[ECO "A48"]
+[Opening "London System"]
+
+{ It would be an educated guess that this chapter would be the most viewed of them all. I've heard so many newer players complain about the London System and how strong it is to the point where they play it themselves. Chess can not be a game where players can abuse one opening as their Maslow's Hammer. The London is not an exception. }
+1. d4 Nf6 2. Nf3 g6 3. Bf4 Bg7 4. e3 O-O 5. Be2 d6 6. h3 { The start of the standard London setup by White. My general advice: If you want to beat the London, either 1) Don't play d5. and/or 2) Target the b2 pawn. } 6... Nbd7 7. O-O (7. c4 Ne4) 7... Qe8 { Preparing the e5 pawn break } 8. c4 { The most demanding move. White starts gaining space before playing Nc3. } (8. c3?! { There are players who blindly follow the London setup no matter what and will play c3 here. Just gladly thank your opponent. c3 gives Black 0 headaches. e5 comes next at ease. } 8... e5 9. Bh2 b6 { One benefit of White playing c3 is that the h1-a8 diagonal is unlikely to get blocked by a white pawn. e4 or d5 is extremely hard to achieve now. } 10. Nbd2 (10. c4 { c4?! can be played but Ne4 just transposes back to the main line and White lost a tempo } 10... Ne4) 10... Bb7 { [%cal Gb7h1] }) 8... Ne4! { Ne4 before white can play Nc3 is key. Below is a variation that illustrates why not playing Ne4 can be considered a technical inaccuracy. } (8... e5 9. Bh2 b6 10. Nc3 Bb7 11. Qc2 { Seems like a normal position. However, Black would love to move the Nf6 somewhere in order to play for f5. There are no good squares for it to move. Plus, if the knight ever leaves f6, White can play Nd5, with trouble coming up. } 11... Nh5 12. Nd5) 9. Nc3 (9. Bh2 e5 10. Qc2 f5) 9... Nxc3 10. bxc3 e5 { Hope it is clear why Ne4 was played: The f-pawn is free to move to f5 right away. There is no knight on f6 that has to be driven off first. } 11. Bh2 b6 12. Qc2 Bb7 13. d5? { If White ever pushes d5 out of possibly fear, you will plant a knight on that c5 outpost, and the kingside pawn storm starts! } (13. Rad1 Qe7 { f5 is the plan next }) 13... f5 14. Ng5 Nc5 { No fear! Knight is kicked back next with h6, followed by g5, and checkmate soon. This line is what I'll call a "refutation" of the London System. Good luck } *
+
+
+[Event "🏆 King's Indian Defense Repertoire 🏆: Torre Attack with Bg5"]
+[Site "https://lichess.org/study/NlFMirvk/dw9YNDN8"]
+[Result "*"]
+[Annotator "https://lichess.org/@/Mr_Penings"]
+[UTCDate "2020.06.19"]
+[UTCTime "12:09:13"]
+[Variant "Standard"]
+[ECO "A48"]
+[Opening "Torre Attack"]
+
+1. d4 Nf6 2. Nf3 g6 3. Bg5 { The Torre Attack is similar to the London. Both are fairly harmless and are dealt with the same structure. } 3... Bg7 4. Nbd2 O-O { The two major plans for white are ones involving e4 + c3 and ones involving e3 + c4. Both will be covered. } { [%cal Ge2e3] } 5. e4 (5. e3 d6 { This is very similar to the previous chapter on the London. See the variations there for a more detailed analysis } 6. Bd3 Nbd7 7. O-O e5 8. c3 Qe8 { Threatening e4, forking. } 9. dxe5 dxe5 10. e4 Nc5) 5... d6 6. Bd3 h6 7. Bh4 c5 { Now that the white bishop has committed away from the center, time to strike the dark squares. Bg7 will be a monster soon. Just watch } 8. c3 (8. d5?! Nh5 { Unleashing the monster }) 8... cxd4 9. cxd4 Nh5 10. Bg3 Nc6 11. d5 (11. Nb3 Bg4 { The pressure just does not stop. }) 11... Nb4 { White just cannot stop all of the threats. You can see how much White has overextended their pawns, and now your Bg7 can't be blocked. } *
+
+
+[Event "🏆 King's Indian Defense Repertoire 🏆: d4 Nf6 Nf3 g6 e3?!"]
+[Site "https://lichess.org/study/NlFMirvk/qWWCJ0jS"]
+[Result "*"]
+[Annotator "https://lichess.org/@/Mr_Penings"]
+[UTCDate "2020.06.19"]
+[UTCTime "12:09:13"]
+[Variant "Standard"]
+[ECO "A48"]
+[Opening "East Indian Defense"]
+
+1. d4 Nf6 2. Nf3 g6 3. e3 { There will always be those players who play 3. e3, intentionally locking in their dark squared bishop. I will not go into detail on this move except say this is bad. If the London against KID is bad, this is just garbage. } 3... Bg7 4. Be2 (4. c4 O-O 5. b4 d6 6. Bb2) 4... O-O 5. O-O d6 6. c4 Nbd7 7. Nc3 e5 { You can see that the plans are basically the same as against the London, except e5 is achieved much easier. No fear. Good luck } *
+
+
+[Event "🏆 King's Indian Defense Repertoire 🏆: ****   Main Lines    ****"]
+[Site "https://lichess.org/study/NlFMirvk/cI1CJv3T"]
+[Result "*"]
+[Annotator "https://lichess.org/@/Mr_Penings"]
+[UTCDate "2020.06.19"]
+[UTCTime "12:09:13"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+
+*
+
+
+[Event "🏆 King's Indian Defense Repertoire 🏆: d4 Nf6 c4 d6 Nc3 Intro"]
+[Site "https://lichess.org/study/NlFMirvk/LirIMCQz"]
+[Result "*"]
+[Annotator "https://lichess.org/@/Mr_Penings"]
+[UTCDate "2020.06.19"]
+[UTCTime "12:09:13"]
+[Variant "Standard"]
+[ECO "A54"]
+[Opening "Old Indian Defense: Two Knights Variation"]
+
+{ My recommended move order of playing 2. d6 avoids the two sharpest lines of the Kings Indian: Saemisch and the 4 Pawns Attack. Play g6 only when White has committed the knight to f3. }
+1. d4 Nf6 2. c4 d6 3. Nc3 (3. Nf3 g6 { Once White plays Nf3, g6 is playable and will transpose to one of the variations below. }) 3... e5 { 3. g6 would transpose to a normal King's Indian. However, my recommended move order avoids the sharper Saemisch and 4 Pawns attack. } 4. Nf3 (4. d5 { See the next chapter for my recommended setup against 4. d5 })  (4. dxe5 { See the following chapter on 4. dxe5 } 4... dxe5 5. Qxd8+ Kxd8 6. Nf3 Nfd7 7. g4 (7. e4 f6 8. Be3 c6 9. Be2 Kc7 10. O-O a5 { [%cal Gd7c5] }) 7... c6 8. b3 Kc7 9. Bb2 f6 $10)  (4. e4!? { Saemisch players cannot reach their preferred move order with 4. e4 because Black has the option of playing exd4, forcing the White queen out. } 4... exd4 5. Qxd4 Nc6 6. Qd1 g6) 4... Nbd7 { Here, White has a few more sidelines (d5 and dxe5) and 3 main moves (kingside fianchetto with g3, center control with e4 + Be2, and Bg5). We will analyze all of these in the coming chapters. } *
+
+
+[Event "🏆 King's Indian Defense Repertoire 🏆: Why you should never fear dxe5!"]
+[Site "https://lichess.org/study/NlFMirvk/PDWNX0XG"]
+[Result "*"]
+[Annotator "https://lichess.org/@/Mr_Penings"]
+[UTCDate "2020.06.19"]
+[UTCTime "12:09:13"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[FEN "r1bq1rk1/pppn1pbp/3p1np1/4p3/2PPP3/2N2N2/PP2BPPP/R1BQ1RK1 w - - 0 1"]
+[SetUp "1"]
+
+{ At first glance, the exchange variations may cause some Kings Indian players to groan in boredom since lower rated players can go for this line and achieve a minimum risk position to exchange off pieces. However, it is not completely symmetrical. Look at the pawn structure }
+1. dxe5 dxe5 { The key, which is absolutely essential for any Kings Indian player, to note is that Black can take advantage of an outpost on d4 while White can't say the same about d5 (since Black can defend it with c6) } { [%csl Gd5,Gd4] } 2. Bg5 c6 3. Qc2 Qc7 4. Rad1 Nc5 { Now the plan is a bit clearer. Black's Nc5 is rerouting to d4 eventually through e6. Bg4 is also coming up in hopes to exchange bishop for knight. Black will end up with a beautiful outpost on d4 for the knight. White's Nc3 on the other hand is stuck finding a good outpost to play on } { [%csl Gd4][%cal Gc8g4,Gc5e6] } *
+
+
+[Event "🏆 King's Indian Defense Repertoire 🏆: 4. dxe5 - The Beginner line"]
+[Site "https://lichess.org/study/NlFMirvk/H6af2PkC"]
+[Result "*"]
+[Annotator "https://lichess.org/@/Mr_Penings"]
+[UTCDate "2020.06.19"]
+[UTCTime "12:09:13"]
+[Variant "Standard"]
+[ECO "A54"]
+[Opening "Old Indian Defense: Ukrainian Variation"]
+
+1. d4 Nf6 2. c4 d6 3. Nc3 e5 4. dxe5 dxe5 5. Qxd8+ Kxd8 6. Nf3 (6. Bg5 c6 7. Nf3 Nd7 8. O-O-O Kc7) 6... Nfd7! { It is important to play this knight back. You want to play f6 next to stabilize the pawn chain. } (6... Nbd7!? 7. Ng5 Ke8 8. Nb5 Bd6 { Although this is playable for Black, I find this structure a bit annoying because your king is awkwardly placed and your pieces are a bit disconnected }) 7. g4 (7. e4 f6 8. Be3 c6 9. Be2 Kc7 10. O-O a5)  (7. Ng5 Ke8 8. Nd5 Na6 { f6 and c6 come next and time for White's knights to go back to their own territory! }) 7... c6 8. b3 Kc7 9. Bb2 f6 10. O-O-O a5 11. Rg1 Nc5 12. g5 Bf5 { Black should ultimately play for a timely a4 to pick at the White queenside pawns. Other than that, White cannot properly utilize any outposts for their knights. } { [%cal Ga5a4,Gb8a6] } *
+
+
+[Event "🏆 King's Indian Defense Repertoire 🏆: 4. d5"]
+[Site "https://lichess.org/study/NlFMirvk/977eaVRu"]
+[Result "*"]
+[Annotator "https://lichess.org/@/Mr_Penings"]
+[UTCDate "2020.06.19"]
+[UTCTime "12:09:13"]
+[Variant "Standard"]
+[ECO "E87"]
+[Opening "King's Indian Defense: Sämisch Variation, Closed Variation"]
+
+1. d4 Nf6 2. c4 d6 3. Nc3 e5 4. d5 { This is the other major response against 3. e5. I recommend simply going into a fianchetto line and preparing f5 with a kingside pawn rush. Also, the c5 square is a potential outpost for Black's knights, so the idea of a5 followed by Na6 or Nbd7 to c5 is often played. } 4... g6 5. e4 Bg7 6. f3 O-O 7. Be3 Nh5 8. Qd2 Nd7 9. O-O-O { This setup has given me lots of trouble in practice. White's king is fairly safe on the queenside, so it will be hard to say Black can win the pawn race. Often, your attack will have to involve a pawn sacrifice to gain time with a6 + b5. } 9... f5 10. exf5 (10. Bd3 a6 11. Nge2 b5!? { An interesting pawn break to speed up the attack. Otherwise, standard strategies such as Rb8 and Bd7 to prepare b5 are a tad slow. } 12. cxb5 axb5 (12... fxe4 13. Nxe4 axb5 14. Bxb5 Rxa2 { With a strong attack })) 10... gxf5 11. Bd3 Nc5 12. Bc2 a6 13. Nge2 b5 { Black gets the queenside pawn storm rolling quick and has an open file too. } *
+
+
+[Event "🏆 King's Indian Defense Repertoire 🏆: The ambitious Makogonov Variation"]
+[Site "https://lichess.org/study/sJVldGJL/QBJ7VEQi"]
+[Result "*"]
+[UTCDate "2020.06.19"]
+[UTCTime "19:02:56"]
+[Variant "Standard"]
+[ECO "E60"]
+[Opening "King's Indian Defense: Normal Variation, King's Knight Variation"]
+[Annotator "https://lichess.org/@/Mr_Penings"]
+
+1. d4 Nf6 2. Nf3 g6 3. c4 Bg7 4. Nc3 O-O 5. e4 d6 6. h3 { The Makogonov System with 6. h3 can easily tranpose to similar variations in the study. After all, Kings Indian is more about ideas rather than specific moves. However, I still believe the lines where White goes for g4 and a quick kingside attack deserve some attention } 6... Nbd7 7. Be3 e5 8. d5 Nc5 9. Nd2 a5 10. g4 c6 11. Be2 (11. Bxc5?! dxc5 { This does ruin BLack's pawn structure a bit, but having the bishop pair in a position that could potentially open up completely is a big plus } 12. Be2 Ne8 13. Qc2 Nd6 14. h4 a4 15. g5 cxd5 16. Nxd5 Be6 17. O-O-O Bxd5 18. cxd5 (18. exd5 a3 19. b3 f5) 18... b5) 11... a4 { I recommend a4 here instead of cxd5 as a counterattacking move. Black really doesn't want to force things yet. Instead, you should wait for White to make the first move, such as launch a kingside attack. Then you strike back. } (11... cxd5?! 12. cxd5 { I have played cxd5 early before, but this only led to trouble with Nc4 and Bxc5 ideas. It is not fun } 12... Bd7 13. Bxc5 dxc5 14. a4 Ne8 15. Nc4 { White definitely stands better with the invasion of the knights. }) 12. h4 Qa5 { Striking back in the center hard. Now Nxe4 is a threat due to the pin on White's king } 13. Kf1 { Logical to move out of the deadly pin } (13. g5? Nfxe4) 13... a3 { Black has a lot of pressure on the dark squares. I have found that White's kingside attack is rarely successful with decent play by Black. } *
+
+
+[Event "🏆 King's Indian Defense Repertoire 🏆: Be2 lines (Intro and 8. d5)"]
+[Site "https://lichess.org/study/NlFMirvk/Ido2HEh0"]
+[Result "*"]
+[Annotator "https://lichess.org/@/Mr_Penings"]
+[UTCDate "2020.06.19"]
+[UTCTime "12:09:13"]
+[Variant "Standard"]
+[ECO "E94"]
+[Opening "King's Indian Defense: Orthodox Variation, Positional Defense, Closed Line"]
+
+1. d4 Nf6 2. c4 d6 3. Nc3 e5 4. Nf3 Nbd7 5. e4 g6 6. Be2 Bg7 7. O-O O-O { This is the starting position of the Be2 line. Here, White has a bunch of tries, but they often lead to similar positions. So I will go over the major lines and share a variety of plans for Black across the next few chapters. This chapter will be dedicated to an immediate d5, the next one will be on Be3, and the third on Re1. } 8. d5 Nc5 9. Qc2 a5 10. Bg5 h6 11. Be3 b6 12. Nd2 (12. a3 a4 { Making sure White can't ever play b4 to dislodge the knight } 13. Bxc5 bxc5 14. Nxa4 Nxe4 15. Qxe4 Rxa4) 12... Ng4 13. Bxg4 Bxg4 14. a3 Bd7 15. b4 Nb7 { Black cannot prevent b4, but it is still fine. White does get to expand on the queenside, but it is easier to deal with because White doesn't have a light squared bishop anymore. } 16. Nb3 f5 17. f3 f4 18. Bf2 g5 { Pawn race is on! } 19. c5 bxc5 20. bxc5 a4 21. Nd2 Nxc5 22. Bxc5 dxc5 23. Nc4 Ra6 { Rook lift towards the kingside. It is a sharp game from here, but Black's attacking chances are looking good. } *
+
+
+[Event "🏆 King's Indian Defense Repertoire 🏆: Be2 lines part 2 (8. Be3)"]
+[Site "https://lichess.org/study/NlFMirvk/P4DWnsTY"]
+[Result "*"]
+[Annotator "https://lichess.org/@/Mr_Penings"]
+[UTCDate "2020.06.19"]
+[UTCTime "12:09:13"]
+[Variant "Standard"]
+[ECO "E94"]
+[Opening "King's Indian Defense: Orthodox Variation, Positional Defense"]
+
+1. d4 Nf6 2. c4 d6 3. Nc3 e5 4. Nf3 Nbd7 5. e4 g6 6. Be2 Bg7 7. O-O O-O 8. Be3 Re8 9. d5 Nh5 { Heading to f4 } 10. g3 Bf8 { An interesting maneuver used by many grandmasters. The idea is to drop the knight back to g7 now that the f4 square is covered, and then Black will continue with the thematic f5 break. } 11. Ne1 Ng7 12. Nd3 f5 13. f3 g5 { A straightforward plan to achieve f4. Now White can either allow it, capture on f5 now, or play f4 themselves. } 14. f4 { A risky move, with multiple pawns contesting each other. } (14. exf5 Nxf5 15. Qd2 h6 16. Ne4 Bg7 17. Rae1 Rf8 { Time for black to develop the rest of the queenside army. If white ever tries to break up the kingside with f4, make sure you exchange your knight for the Be3 first. Will make your life much easier }) 14... exf4 15. gxf4 g4 { Black stands well here, thanks for the added pressure along the e-file. } *
+
+
+[Event "🏆 King's Indian Defense Repertoire 🏆: Be2 lines part 3 (8. Re1)"]
+[Site "https://lichess.org/study/NlFMirvk/tbMIDydc"]
+[Result "*"]
+[Annotator "https://lichess.org/@/Mr_Penings"]
+[UTCDate "2020.06.19"]
+[UTCTime "12:09:13"]
+[Variant "Standard"]
+[ECO "E95"]
+[Opening "King's Indian Defense: Orthodox Variation"]
+
+1. d4 Nf6 2. c4 d6 3. Nc3 e5 4. Nf3 Nbd7 5. e4 g6 6. Be2 Bg7 7. O-O O-O 8. Re1 exd4 { I have tried many different plans here as Black, such as Re8, c6, a6, b6, and exd4, and from experience, the lines where Black exchanges early with exd4 seem the most clear. Black aims to focus the pressure on the queenside, where he has a pawn majority. } 9. Nxd4 Re8 10. Bf1 a6 11. f3 c6 12. Be3 (12. a4) 12... Ne5 { Preparing b5 by defending the c6 pawn } 13. Qd2 (13. a4 { Preventing b5 allows a hole on b4. } 13... c5 14. Nc2 Be6 15. b3 Qa5 16. Qd2 Nc6 { With good pressure all around. The kings indian bishop diagonal has opened up and we'll see an intense middlegame battle for sure }) 13... b5 14. cxb5 axb5 { Pretty standard play. Black has pawns rolling down with b4 and then c5. White's goal is to slowly kick the knight away with f4 after closing off its advancements to either g4 and c4. } *
+
+
+[Event "🏆 King's Indian Defense Repertoire 🏆: White kingside fianchetto"]
+[Site "https://lichess.org/study/NlFMirvk/CAseWNoj"]
+[Result "*"]
+[Annotator "https://lichess.org/@/Mr_Penings"]
+[UTCDate "2020.06.19"]
+[UTCTime "12:09:13"]
+[Variant "Standard"]
+[ECO "E68"]
+[Opening "King's Indian Defense, Fianchetto Variation, Classical Variation"]
+
+1. d4 Nf6 2. Nf3 g6 3. g3 Bg7 4. Bg2 O-O 5. O-O d6 6. c4 Nbd7 7. Nc3 e5 8. e4 { This line combines the kingside fianchetto and e4. My best suggestion is to play on the queenside to take advantage of the White's light squared bishop temporarily off the f1-a6 diagonal. } 8... a6 9. Re1 (9. h3 exd4 10. Nxd4 Re8 11. Re1 Rb8 { Transposes back to the main line. See below }) 9... exd4 10. Nxd4 Re8 11. h3 Rb8 12. Be3 Ne5 13. b3 c5 14. Nde2 b5 { This is the idea of Rb8 earlier. } 15. f4 (15. cxb5 axb5 16. Rc1 b4 17. Nd5 Nxd5 18. Qxd5 (18. exd5 Ra8) 18... Bb7 19. Qd2 Ra8 { In both lines, Black will have immense long term pressure on the backwards a2 pawn. }) 15... Ned7 16. Qxd6 { See Wheeler - Bachmann game below for an example of how Black took advantage on White's overextension } *
+
+
+[Event "🏆 King's Indian Defense Repertoire 🏆: White kingside fianchetto part 2"]
+[Site "https://lichess.org/study/NlFMirvk/bRAzbEHu"]
+[Result "*"]
+[Annotator "https://lichess.org/@/Mr_Penings"]
+[UTCDate "2020.06.19"]
+[UTCTime "12:11:03"]
+[Variant "Standard"]
+[ECO "E67"]
+[Opening "King's Indian Defense: Fianchetto Variation, Classical Fianchetto"]
+
+1. d4 Nf6 2. Nf3 g6 3. g3 Bg7 4. Bg2 O-O 5. O-O d6 6. c4 Nbd7 7. Nc3 e5 8. h3 (8. dxe5 dxe5 9. e4 c6 { Absolutely harmless. Qc7 next, followed by a well timed Nc5-e6-d4. See my game: Deshpande - He 0-1 sample game below for a sample }) 8... Re8 9. Be3 (9. e4 { e4 is commonly played here anyways, which will transpose to part 1. }) 9... exd4 10. Nxd4 (10. Bxd4 c5 11. Be3 Nb6 12. Nd2 Nh5 13. g4 (13. Kh2 Nxg3 { Nxg3 comes anyways } 14. Kxg3 Be5+ 15. f4 Bxc3) 13... Ng3! { White's Be3 has huge drawbacks clearly. }) 10... Nc5 11. b4 (11. Qc2 a5 { Maintaining the outpost on c5 }) 11... Nce4 12. Nxe4 Nxe4 { Threat of Nxg3, winning a pawn. } *
+
+
+[Event "🏆 King's Indian Defense Repertoire 🏆: White's double fianchetto"]
+[Site "https://lichess.org/study/NlFMirvk/7nAmFVtx"]
+[Result "*"]
+[Annotator "https://lichess.org/@/Mr_Penings"]
+[UTCDate "2020.06.19"]
+[UTCTime "12:11:03"]
+[Variant "Standard"]
+[ECO "A49"]
+[Opening "Indian Defense: Przepiorka Variation"]
+
+1. d4 Nf6 2. Nf3 g6 3. g3 Bg7 4. Bg2 O-O 5. O-O d6 6. b3 { Double fianchetto is also possible. It tends to leads to quieter positions, but should not be taken lightly! } 6... e5! { You should already be expecting a pawn "sacrifice" like this. Black's Kings Indian bishop wants freedom, and eyes the White rook on a1 at the end of the diagonal! } 7. dxe5 dxe5 8. Ba3 (8. Nxe5 Ng4)  (8. Qxd8 Rxd8 9. Bb2 e4 10. Ne5 Nbd7 { Nice blockade on e4 of White's light squared bishop })  (8. Bb2 e4) 8... Qxd1 9. Rxd1 { Probably the best line for White } 9... Re8 10. Nc3 e4 11. Nd4 a6 { Fairly balanced position here. Black's goal is to first restrict White's minor pieces and then start kicking them back with a timely c5 and b5 } *
+
+
+[Event "🏆 King's Indian Defense Repertoire 🏆: White plays Early Bg5"]
+[Site "https://lichess.org/study/NlFMirvk/QYEaYKpH"]
+[Result "*"]
+[Annotator "https://lichess.org/@/Mr_Penings"]
+[UTCDate "2020.06.19"]
+[UTCTime "12:11:03"]
+[Variant "Standard"]
+[ECO "A54"]
+[Opening "Old Indian Defense: Two Knights Variation"]
+
+1. d4 Nf6 2. c4 d6 3. Nc3 e5 4. Nf3 Nbd7 5. Bg5 { I face this Bg5 line once in a while. White does not go for e4 or fianchetto but instead goes for a solid setup by getting the bishop out of the pawn chain and then playing e3. Fairly logical, and by no means bad. } 5... h6 6. Bh4 c6 7. e3 g5 8. Bg3 Nh5 { An important move. Otherwise, White will get in h3 and the bishop has a hiding spot on h2. On h5, Black's knight will act as a pest. Nxg3 should be played on one of 2 conditions:
+1) White castles kingside. The open h-file will cause White nothing but trouble
+2) The Nf3 retreats, creating a discovered attack by the Queen } 9. Qc2 Bg7 10. Be2 O-O 11. O-O (11. O-O-O Qe7 (11... Nxg3? 12. hxg3 { Do NOT play Nxg3 if White hasn't castled kingside. Otherwise, white will castle long and you'll have to deal with endless pressure on the open h-file })) 11... Nxg3 { 0-0 triggers the action of Nxg3, which is fine now. } 12. hxg3 f5 { Black should end with an active position, with loads more space on the kingside. White ends up with the open d-file in exchange. } *
+
+
+[Event "🏆 King's Indian Defense Repertoire 🏆: Kings Indian against 1. Nf3"]
+[Site "https://lichess.org/study/NlFMirvk/5pym5H8X"]
+[Result "*"]
+[Annotator "https://lichess.org/@/Mr_Penings"]
+[UTCDate "2020.06.19"]
+[UTCTime "12:11:03"]
+[Variant "Standard"]
+[ECO "E94"]
+[Opening "King's Indian Defense: Orthodox Variation, Positional Defense"]
+
+{ 1. Nf3 likely will transpose to any of the variations below. }
+1. Nf3 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. d4 O-O 6. Be2 (6. h3 { h3 is a sideline for Kings Indian players. The same strategies apply to this line for Black } 6... Nbd7 7. Be3 e5 8. d5 Nc5 9. Nd2 a5 10. g4 c6 11. Be2 a4 12. Qc2 Bd7 { See my new chapter on the Makogonov Variation for a more detailed analysis of this sideline }) 6... Nbd7 7. O-O e5 { Transposes back to the main lines. } *
+
+
+[Event "🏆 King's Indian Defense Repertoire 🏆: Kings Indian against English"]
+[Site "https://lichess.org/study/NlFMirvk/Hroq7lV9"]
+[Result "*"]
+[Annotator "https://lichess.org/@/Mr_Penings"]
+[UTCDate "2020.06.19"]
+[UTCTime "12:11:03"]
+[Variant "Standard"]
+[ECO "A10"]
+[Opening "English Opening"]
+
+1. c4 { Okay, this brings me to the final chapter, and honestly one of the hardest chapters to write. Why? Because I play the English myself as White and I love to face the Kings Indian as white because of the strong Botvinnik attack. White has not committed the knight to f3, so the Botvinnik is still possible. } 1... d6 2. Nc3 g6 { My recommendation here is naturally the one where I have had the most difficulties facing as White. } 3. g3 Bg7 4. Bg2 e5 5. e4 { The start of the Botvinnik setup. Playing Nf6 against it is low-key be asking for trouble. Though I may have a biased opinion because I have had success on the White side. } 5... Nc6 6. Nge2 f5 7. d3 Nf6 8. O-O O-O 9. Nd5 { The best move in this position } (9. h3? { See Chapter 17 of my English Opening Guide to see the refutation of h3 in depth: https://lichess.org/study/h4GuSZh3 } 9... f4! 10. gxf4 Nh5) 9... Be6 10. Bg5 Qd7 11. Qd2 Rf7 12. b4 (12. f4 fxe4 13. dxe4 Raf8 { Lines where White plays f4 are a bit overextending from experience. Black has no real weaknesses to exploit, so f4 is a bit overextending with space. It may leave permanent pawn weaknesses behind. }) 12... fxe4 13. dxe4 Raf8 14. a4 Nb8 { Black has a solid position, with a plan of c6 to kick back the knight on d5. The position is fairly balanced. } *
+
+
+[Event "🏆 King's Indian Defense Repertoire 🏆: **Sample Mr_Penings Games**"]
+[Site "https://lichess.org/study/NlFMirvk/kH7fmnDj"]
+[Result "*"]
+[Annotator "https://lichess.org/@/Mr_Penings"]
+[UTCDate "2020.06.19"]
+[UTCTime "12:11:03"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+
+*
+
+
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/TcYV6Vpx"]
+[Date "2019.08.27"]
+[Round "-"]
+[White "loann_R"]
+[Black "Mr_Penings"]
+[Result "0-1"]
+[WhiteElo "2463"]
+[BlackElo "2574"]
+[BlackTitle "NM"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+[Annotator "https://lichess.org/@/Mr_Penings"]
+[UTCDate "2020.06.19"]
+[UTCTime "12:11:03"]
+[Variant "Standard"]
+[ECO "E94"]
+[Opening "King's Indian Defense: Orthodox Variation, Positional Defense, Closed Line"]
+
+1. d4 { [%clk 0:03:00] } 1... Nf6 { [%clk 0:03:00] } 2. Nf3 { [%clk 0:02:58] } 2... g6 { [%clk 0:02:59] } 3. c4 { [%clk 0:02:58] } 3... Bg7 { [%clk 0:02:58] } 4. Nc3 { [%clk 0:02:57] } 4... O-O { [%clk 0:02:58] } 5. e4 { [%clk 0:02:57] } 5... d6 { [%clk 0:02:57] } 6. Be2 { [%clk 0:02:56] } 6... Nbd7 { [%clk 0:02:57] } 7. O-O { [%clk 0:02:56] } 7... e5 { [%clk 0:02:56] } 8. d5 { [%clk 0:02:55] } 8... Nc5 { [%clk 0:02:55] } 9. Qc2 { [%clk 0:02:54] } 9... a5 { [%clk 0:02:54] } 10. b3 { [%clk 0:02:53] } 10... Nh5 { [%clk 0:02:52] } 11. Ne1 { [%clk 0:02:48] } 11... Nf4 { The knight on f4 is not meant to stay for long. It acts as a bait to open up the long diagonal } { [%clk 0:02:51] } 12. Bf3 { [%clk 0:02:47] } 12... f5 { [%clk 0:02:50] } 13. Bxf4 { [%clk 0:02:41] } 13... exf4 { Goal achieved } { [%clk 0:02:49] } 14. Rc1 { [%clk 0:02:40] } 14... g5 { [%clk 0:02:45] } 15. exf5 { [%clk 0:02:38] } 15... Bxf5 { [%clk 0:02:44] } 16. Qd1 { [%clk 0:02:33] } 16... Qd7 { [%clk 0:02:43] } 17. h3 { [%clk 0:02:31] } 17... Rae8 { [%clk 0:02:39] } 18. Bg4 { [%clk 0:02:29] } 18... Qf7 { [%clk 0:02:27] } 19. Bxf5 { [%clk 0:02:23] } 19... Qxf5 { [%clk 0:02:26] } 20. Qf3 { [%clk 0:02:22] } 20... Qg6 { [%clk 0:02:19] } 21. Na4 { [%clk 0:02:14] } 21... Ne4 { [%clk 0:02:16] } 22. Rd1 { [%clk 0:02:04] } 22... h5 { The g4 push is extremely dangerous for White. } { [%clk 0:02:14] } 23. Nc2 { [%clk 0:01:54] } 23... g4 { [%clk 0:02:12] } 24. hxg4 { [%clk 0:01:52] } 24... hxg4 { [%clk 0:02:12] } 25. Qd3 { [%clk 0:01:50] } 25... g3 { Now there is the threat of Qh2# and White has little defense. } { [%clk 0:02:06] } 26. fxg3 { [%clk 0:01:48] } 26... fxg3 { [%clk 0:02:05] } 27. Rxf8+ { [%clk 0:01:45] } 27... Rxf8 { [%clk 0:02:01] } 28. Rf1 { [%clk 0:01:44] } 28... Rxf1+ { [%clk 0:01:55] } 29. Qxf1 { [%clk 0:01:32] } 29... Qh7 { [%clk 0:01:32] } 30. Qf4 { [%clk 0:01:17] } 30... Qh2+ { A series of forcing moves lead to a win } { [%clk 0:01:25] } 31. Kf1 { [%clk 0:01:16] } 31... Qh1+ { [%clk 0:01:25] } 32. Ke2 { [%clk 0:01:15] } 32... Qxg2+ { [%clk 0:01:23] } 33. Ke3 { [%clk 0:01:14] } 33... Qd2+ { [%clk 0:01:15] } 34. Kxe4 { [%clk 0:01:12] } 34... Qxc2+ { [%clk 0:01:15] } 35. Ke3 { [%clk 0:01:07] } 35... Qc1+ { 0-1 White resigns.
+Black will trade queens and then promote the g-pawn } { [%clk 0:01:09] } 0-1
+
+
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/BVHs6kWi"]
+[Date "2020.02.14"]
+[Round "-"]
+[White "Ballista1"]
+[Black "Mr_Penings"]
+[Result "0-1"]
+[WhiteElo "2361"]
+[BlackElo "2649"]
+[BlackTitle "NM"]
+[TimeControl "180+0"]
+[Termination "Time forfeit"]
+[Annotator "https://lichess.org/@/Mr_Penings"]
+[UTCDate "2020.06.19"]
+[UTCTime "12:11:03"]
+[Variant "Standard"]
+[ECO "E94"]
+[Opening "King's Indian Defense: Orthodox Variation, Positional Defense"]
+
+1. d4 { [%clk 0:03:00] } 1... Nf6 { [%clk 0:03:00] } 2. c4 { [%clk 0:02:59] } 2... d6 { [%clk 0:02:59] } 3. Nc3 { [%clk 0:02:58] } 3... e5 { [%clk 0:02:58] } 4. Nf3 { [%clk 0:02:56] } 4... Nbd7 { [%clk 0:02:57] } 5. e4 { [%clk 0:02:55] } 5... g6 { [%clk 0:02:56] } 6. Be2 { [%clk 0:02:54] } 6... Bg7 { [%clk 0:02:55] } 7. O-O { [%clk 0:02:53] } 7... O-O { [%clk 0:02:55] } 8. b4 { [%clk 0:02:48] } 8... exd4 { [%clk 0:02:52] } 9. Nxd4 { [%clk 0:02:48] } 9... a5 { Firmly seizing the c5 outpost for the knight } { [%clk 0:02:51] } 10. b5 { [%clk 0:02:44] } 10... Nc5 { [%clk 0:02:51] } 11. f3 { [%clk 0:02:43] } 11... Nh5 { [%clk 0:02:40] } 12. Be3 { [%clk 0:02:40] } 12... f5 { Standard pawn break } { [%clk 0:02:39] } 13. Rc1 { [%clk 0:02:15] } 13... Qh4 { [%clk 0:02:12] } 14. Bf2 { [%clk 0:02:02] } 14... Qg5 { [%clk 0:02:10] } 15. h4 { [%clk 0:01:46] } 15... Qh6 { [%clk 0:02:05] } 16. Nd5 { [%clk 0:01:43] } 16... f4 { [%clk 0:01:43] } 17. Nxc7 { [%clk 0:01:37] } 17... Ng3 { [%clk 0:01:36] } 18. Bxg3 { [%clk 0:01:11] } 18... fxg3 { The upcoming threat of Qxh4 and Qh2# are too much for White to deal with. } { [%clk 0:01:33] } 19. f4 { [%clk 0:01:10] } 19... Qxh4 { [%clk 0:01:32] } 20. Nf3 { [%clk 0:01:08] } 20... Qh5 { [%clk 0:01:22] } 21. f5 { [%clk 0:00:59] } (21. Nxa8?? Ne6 { White cannot afford to take material. Bd4+ is coming and mate to come on h2. } 22. Qd5 Bd4+ 23. Qxd4 Nxd4) 21... Rb8 { [%clk 0:01:08] } 22. Nd5 { [%clk 0:00:52] } 22... Nxe4 { [%clk 0:00:58] } 23. Ne7+ { [%clk 0:00:43] } 23... Kh8 { [%clk 0:00:57] } 24. Qd5 { [%clk 0:00:40] } 24... Ng5 { Black just needs to distract the Nf3 for one move to checkmate. } { 0-1 Black wins on time. } { [%clk 0:00:48] } 0-1
+
+
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/PJ2x5JsD"]
+[Date "2020.01.24"]
+[Round "-"]
+[White "MMMJ"]
+[Black "Mr_Penings"]
+[Result "0-1"]
+[WhiteElo "2526"]
+[BlackElo "2640"]
+[BlackTitle "NM"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+[Annotator "https://lichess.org/@/Mr_Penings"]
+[UTCDate "2020.06.19"]
+[UTCTime "12:11:03"]
+[Variant "Standard"]
+[ECO "A53"]
+[Opening "Old Indian Defense"]
+
+1. d4 { [%clk 0:03:00] } 1... Nf6 { [%clk 0:03:00] } 2. c4 { [%clk 0:02:59] } 2... d6 { [%clk 0:02:59] } 3. Nf3 { [%clk 0:02:56] } 3... g6 { [%clk 0:02:58] } 4. Nc3 { [%clk 0:02:55] } 4... Bg7 { [%clk 0:02:57] } 5. h3 { [%clk 0:02:54] } 5... O-O { [%clk 0:02:56] } 6. Bf4 { [%clk 0:02:54] } 6... Nbd7 { [%clk 0:02:56] } 7. e3 { [%clk 0:02:53] } 7... b6 { [%clk 0:02:55] } 8. Be2 { [%clk 0:02:52] } 8... Bb7 { [%clk 0:02:54] } 9. O-O { [%clk 0:02:52] } 9... Qe8 { [%clk 0:02:54] } 10. Rc1 { [%clk 0:02:51] } 10... e5 { [%clk 0:02:53] } 11. Bh2 { [%clk 0:02:50] } 11... a6 { Preventing Nb5 } { [%clk 0:02:51] } 12. b4 { [%clk 0:02:49] } 12... Qe7 { [%clk 0:02:48] } 13. a3 { [%clk 0:02:48] } 13... e4 { [%clk 0:02:48] } 14. Nd2 { [%clk 0:02:46] } 14... Rfe8 { [%clk 0:02:45] } 15. Nb3 { [%clk 0:02:45] } 15... Nf8 { [%clk 0:02:42] } 16. c5 { [%clk 0:02:43] } 16... d5 { [%clk 0:02:37] } 17. b5 { [%clk 0:02:37] } 17... Ne6 { [%clk 0:02:29] } 18. c6 { Black should be happy to lock up the queenside pawns so the focus will be on the kingside play. } { [%clk 0:02:34] } 18... Bc8 { [%clk 0:02:28] } 19. Be5 { [%clk 0:02:31] } 19... Rd8 { [%clk 0:02:23] } 20. bxa6 { [%clk 0:02:22] } 20... Bxa6 { [%clk 0:02:21] } 21. Bxa6 { [%clk 0:02:22] } 21... Rxa6 { [%clk 0:02:21] } 22. Nb5 { [%clk 0:02:21] } 22... Ne8 { [%clk 0:02:17] } 23. Bg3 { [%clk 0:02:07] } 23... f5 { The ultimate plan is to play g5 + f4 and open up as many lines as possible towards the White king. } { [%clk 0:02:13] } 24. Qe2 { [%clk 0:02:04] } 24... Raa8 { [%clk 0:02:08] } 25. Rfd1 { [%clk 0:02:02] } 25... g5 { [%clk 0:02:06] } 26. f4 { Sort of a desperate move to slow down the f4 push. But it will lead to permanent pawn weaknesses. } { [%clk 0:01:48] } 26... gxf4 { [%clk 0:02:03] } 27. exf4 { [%clk 0:01:45] } (27. Bxf4 Nxf4 28. exf4 { Also not much better with the same weak pawn structure and lack of dark square control. }) 27... Nf6 { [%clk 0:01:57] } 28. Qe3 { [%clk 0:01:39] } 28... Kh8 { [%clk 0:01:54] } 29. Bh4 { [%clk 0:01:37] } 29... Qf7 { [%clk 0:01:52] } 30. Ra1 { [%clk 0:01:24] } 30... Rg8 { [%clk 0:01:51] } 31. Bxf6 { [%clk 0:01:21] } 31... Bxf6 { [%clk 0:01:50] } 32. Kh2 { [%clk 0:01:18] } 32... Bh4 { [%clk 0:01:47] } 33. Rf1 { [%clk 0:01:17] } 33... Rg3 { [%clk 0:01:44] } 34. Qe2 { [%clk 0:01:16] } 34... Rag8 { [%clk 0:01:43] } 35. Rg1 { [%clk 0:01:15] } 35... Nxf4 { [%clk 0:01:42] } 36. Qc2 { [%clk 0:01:10] } 36... Rxg2+ { [%clk 0:01:38] } 37. Rxg2 { [%clk 0:01:09] } 37... Rxg2+ { [%clk 0:01:38] } 38. Qxg2 { [%clk 0:01:07] } 38... Nxg2 { [%clk 0:01:38] } 39. Kxg2 { [%clk 0:01:07] } 39... Qg6+ { 0-1 White resigns. } { [%clk 0:01:37] } 0-1
+
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2020.03.19"]
+[White "NeutralBacon"]
+[Black "Mr_Penings"]
+[Result "1-0"]
+[WhiteElo "2449"]
+[BlackElo "2553"]
+[TimeControl "180+2"]
+[Termination "NeutralBacon won by resignation"]
+[Annotator "https://lichess.org/@/Mr_Penings"]
+[UTCDate "2020.06.19"]
+[UTCTime "12:11:03"]
+[Variant "Standard"]
+[ECO "A54"]
+[Opening "Old Indian Defense: Ukrainian Variation"]
+
+1. d4 { [%clk 0:03:01] } 1... Nf6 { [%clk 0:03:01] } 2. c4 { [%clk 0:03:02] } 2... d6 { [%clk 0:03:03] } 3. Nc3 { [%clk 0:03:03] } 3... e5 { [%clk 0:03:04] } 4. dxe5 { [%clk 0:03:03] } 4... dxe5 { [%clk 0:03:05] } 5. Qxd8+ { [%clk 0:03:04] } 5... Kxd8 { [%clk 0:03:07] } 6. Bg5 { [%clk 0:03:05] } 6... c6 { [%clk 0:03:06] } 7. O-O-O+ { [%clk 0:03:04] } 7... Kc7 { [%clk 0:03:07] } 8. g3 { [%clk 0:03:05] } 8... Nfd7 { [%clk 0:03:04] } 9. Bg2 { [%clk 0:03:04] } 9... f6 { [%clk 0:03:04] } 10. Be3 { [%clk 0:03:01] } 10... a5 { [%clk 0:03:00] } 11. Nf3 { [%clk 0:02:57] } 11... Na6 { [%clk 0:03:00] } 12. Nd2 { [%clk 0:02:51] } 12... Bb4 { [%clk 0:02:34] } 13. Ndb1 { [%clk 0:01:58] } 13... Bc5 { [%clk 0:02:28] } 14. Bxc5 { [%clk 0:01:50] } 14... Ndxc5 { [%clk 0:02:30] } 15. Nd2 { [%clk 0:01:50] } 15... Bf5 { Completely restricting all of White's pieces. } { [%clk 0:02:19] } 16. Nde4 { [%clk 0:01:46] } 16... Rad8 { [%clk 0:02:08] } 17. Rxd8 { [%clk 0:01:29] } 17... Rxd8 { [%clk 0:02:08] } 18. Rd1 { [%clk 0:01:29] } 18... Rd4 { [%clk 0:01:22] } 19. Nxc5 { [%clk 0:01:20] } 19... Nxc5 { [%clk 0:01:20] } 20. b3 { [%clk 0:01:04] } 20... Kd6 { [%clk 0:01:04] } 21. Rd2 { [%clk 0:00:44] } 21... g5 { [%clk 0:01:00] } 22. Kd1 { [%clk 0:00:35] } 22... h5 { [%clk 0:00:59] } 23. e3 { [%clk 0:00:31] } 23... Rd3 { [%clk 0:00:36] } 24. Bf1 { [%clk 0:00:22] } 24... Rxd2+ { [%clk 0:00:31] } 25. Kxd2 { [%clk 0:00:24] } 25... e4 { [%clk 0:00:29] } 26. Be2 { [%clk 0:00:20] } 26... h4 { [%clk 0:00:30] } 27. gxh4 { [%clk 0:00:19] } 27... gxh4 { [%clk 0:00:32] } 28. Bf1 { [%clk 0:00:18] } 28... Ke5 { [%clk 0:00:31] } 29. Be2 { [%clk 0:00:17] } 29... Bh3 { [%clk 0:00:27] } 30. Nd1 { [%clk 0:00:17] } 30... Bg2 { [%clk 0:00:25] } 31. Kc3 { [%clk 0:00:12] } 31... h3 { [%clk 0:00:23] } (31... Bf3 { Bf3 was better to simplify the position. The bishop on g2 ended up not contributing much. } 32. Bxf3 exf3) 32. a3 { [%clk 0:00:12] } 32... Ne6 { [%clk 0:00:19] } 33. b4 { [%clk 0:00:13] } 33... axb4+ { [%clk 0:00:20] } 34. axb4 { [%clk 0:00:15] } 34... b6 { [%clk 0:00:21] } 35. Kd2 { [%clk 0:00:15] } 35... f5 { [%clk 0:00:22] } 36. Nc3 { [%clk 0:00:14] } 36... f4 { [%clk 0:00:21] } 37. exf4+ { [%clk 0:00:12] } 37... Nxf4 { [%clk 0:00:20] } 38. Na4 { [%clk 0:00:10] } 38... b5 { [%clk 0:00:12] } 39. cxb5 { [%clk 0:00:11] } 39... Nxe2 { [%clk 0:00:12] } 40. bxc6 { [%clk 0:00:06] } 40... Kd6 { [%clk 0:00:09] } 41. Kxe2 { [%clk 0:00:07] } 41... Kxc6 { [%clk 0:00:10] } 42. Nc3 { [%clk 0:00:08] } 42... Kb6 { [%clk 0:00:10] } 43. Ke3 { [%clk 0:00:09] } 43... Kc6 { [%clk 0:00:11] } 44. Kd4 { [%clk 0:00:10] } 44... Kb6 { [%clk 0:00:10] } 45. Ke5 { [%clk 0:00:08] } 45... Kc6 { [%clk 0:00:10] } 46. Kf4 { [%clk 0:00:09] } 46... Kb6 { [%clk 0:00:10] } 47. Nxe4 { [%clk 0:00:10] } 47... Kb5 { [%clk 0:00:12] } 48. Ng5 { [%clk 0:00:12] } 48... Kxb4 { [%clk 0:00:13] } 49. Kg3 { [%clk 0:00:13] } 49... Kc4 { [%clk 0:00:14] } 50. Nxh3 { [%clk 0:00:14] } 50... Bf1 { [%clk 0:00:15] } 51. Nf4 { [%clk 0:00:15] } 51... Kd4 { [%clk 0:00:16] } 52. Kg4 { [%clk 0:00:16] } 52... Ke5 { [%clk 0:00:18] } 53. Kg5 { [%clk 0:00:17] } 53... Bc4 { [%clk 0:00:17] } 54. h4 { 1-0 White wins. } { [%clk 0:00:17] } 1-0
+
+
+[Event "Casual Blitz game"]
+[Site "https://lichess.org/3O9IFRSt"]
+[Date "2019.08.08"]
+[Round "-"]
+[White "apsanity"]
+[Black "Mr_Penings"]
+[Result "0-1"]
+[WhiteElo "1832"]
+[BlackElo "2551"]
+[BlackTitle "NM"]
+[TimeControl "300+3"]
+[Termination "Normal"]
+[Annotator "https://lichess.org/@/Mr_Penings"]
+[UTCDate "2020.06.19"]
+[UTCTime "12:11:03"]
+[Variant "Standard"]
+[ECO "A42"]
+[Opening "Modern Defense: Averbakh System"]
+
+1. d4 { [%clk 0:05:00] } 1... g6 { [%clk 0:05:00] } 2. c4 { [%clk 0:05:01] } 2... Bg7 { [%clk 0:05:01] } 3. Nc3 { [%clk 0:05:01] } 3... d6 { [%clk 0:05:00] } 4. e4 { [%clk 0:05:03] } 4... e5 { [%clk 0:05:00] } 5. d5 { [%clk 0:05:00] } 5... f5 { [%clk 0:04:50] } 6. Bd3 { [%clk 0:04:55] } 6... Nf6 { [%clk 0:04:47] } 7. Nf3 { [%clk 0:04:46] } 7... O-O { [%clk 0:04:36] } 8. O-O { [%clk 0:04:47] } 8... f4 { Standard thorn in White's position. Next up: g5-g4 } { [%clk 0:04:34] } 9. b4 { [%clk 0:04:40] } 9... a5 { Important move to lock in the c5 outpost. } { [%clk 0:04:35] } 10. Ba3 { [%clk 0:04:34] } 10... axb4 { [%clk 0:04:37] } 11. Bxb4 { [%clk 0:04:34] } 11... Na6 { [%clk 0:04:39] } 12. Ba3 { [%clk 0:04:28] } 12... Nd7 { Heading to c5 } { [%clk 0:04:34] } 13. Ne1 { [%clk 0:04:09] } 13... g5 { [%clk 0:04:19] } 14. f3 { [%clk 0:03:52] } 14... h5 { [%clk 0:04:17] } 15. h3 { [%clk 0:03:29] } 15... Nf6 { [%clk 0:04:17] } 16. Be2 { [%clk 0:03:23] } 16... b6 { [%clk 0:04:01] } 17. Nd3 { [%clk 0:03:20] } 17... Qe8 { [%clk 0:03:49] } 18. Nf2 { [%clk 0:03:00] } 18... Qg6 { [%clk 0:03:48] } 19. Kh1 { [%clk 0:02:55] } 19... Bh6 { [%clk 0:03:43] } 20. Rg1 { [%clk 0:02:41] } 20... g4 { [%clk 0:03:03] } 21. g3 { [%clk 0:02:31] } 21... fxg3 { [%clk 0:02:59] } 22. Rxg3 { [%clk 0:02:24] } 22... Bf4 { [%clk 0:03:01] } 23. Rg2 { [%clk 0:02:19] } 23... g3 { [%clk 0:03:01] } 24. Bc1 { [%clk 0:01:58] } 24... Kh8 { [%clk 0:02:43] } 25. Bxf4 { [%clk 0:01:51] } 25... exf4 { [%clk 0:02:45] } 26. e5 { [%clk 0:01:10] } 26... dxe5 { [%clk 0:02:48] } 27. Bd3 { [%clk 0:01:34] } 27... Qf7 { [%clk 0:02:40] } 28. Kg1 { [%clk 0:00:45] } 28... gxf2+ { [%clk 0:02:40] } 29. Kxf2 { [%clk 0:00:47] } 29... Rg8 { [%clk 0:02:25] } 30. Qg1 { [%clk 0:01:22] } 30... Bxh3 { [%clk 0:02:19] } 31. Bg6 { [%clk 0:00:58] } 31... Qe7 { [%clk 0:02:14] } 32. Rg5 { [%clk 0:00:46] } 32... Qc5+ { [%clk 0:02:03] } 33. Ke2 { [%clk 0:00:39] } 33... Qxc4+ { [%clk 0:01:57] } 34. Kd2 { [%clk 0:00:35] } 34... Nb4 { [%clk 0:01:17] } 35. Be4 { [%clk 0:00:24] } 35... Rxg5 { [%clk 0:01:02] } 36. Qxg5 { [%clk 0:00:20] } 36... Nxe4+ { [%clk 0:01:04] } 37. Nxe4 { [%clk 0:00:17] } 37... Qc2+ { [%clk 0:01:04] } 38. Ke1 { [%clk 0:00:17] } 38... Nd3# { 0-1 Black wins by checkmate. } { [%clk 0:01:03] } 0-1
+
+
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/jSa56H0M"]
+[Date "2019.08.27"]
+[Round "-"]
+[White "loann_R"]
+[Black "Mr_Penings"]
+[Result "1-0"]
+[WhiteElo "2454"]
+[BlackElo "2589"]
+[BlackTitle "NM"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+[Annotator "https://lichess.org/@/Mr_Penings"]
+[UTCDate "2020.06.19"]
+[UTCTime "12:11:03"]
+[Variant "Standard"]
+[ECO "A53"]
+[Opening "Old Indian Defense"]
+
+1. d4 { [%clk 0:03:00] } 1... Nf6 { [%clk 0:03:00] } 2. c4 { [%clk 0:03:00] } 2... d6 { [%clk 0:02:59] } 3. Nc3 { [%clk 0:02:59] } 3... Nbd7 { [%clk 0:02:58] } 4. e4 { [%clk 0:02:58] } 4... e5 { [%clk 0:02:57] } 5. d5 { [%clk 0:02:57] } 5... Nc5 { [%clk 0:02:56] } 6. Bd3 { [%clk 0:02:55] } 6... a5 { [%clk 0:02:54] } 7. a3 { [%clk 0:02:53] } 7... a4 { a4 further plants the knight on c5. If b4 is ever played, Black can axb3 en passant. } { [%clk 0:02:53] } 8. Nge2 { [%clk 0:02:51] } 8... g6 { [%clk 0:02:52] } 9. O-O { [%clk 0:02:48] } 9... Bg7 { [%clk 0:02:51] } 10. h3 { [%clk 0:02:46] } 10... O-O { [%clk 0:02:50] } 11. Be3 { [%clk 0:02:44] } 11... Bd7 { [%clk 0:02:46] } 12. Bc2 { [%clk 0:02:40] } 12... Qe8 { [%clk 0:02:45] } 13. Qd2 { [%clk 0:02:35] } 13... b6 { [%clk 0:02:41] } 14. Rae1 { [%clk 0:02:31] } 14... Nh5 { [%clk 0:02:36] } 15. Ng3 { [%clk 0:02:28] } 15... Nxg3 { [%clk 0:02:26] } 16. fxg3 { [%clk 0:02:28] } 16... f5 { [%clk 0:02:18] } 17. Bh6 { [%clk 0:02:27] } 17... Qe7 { [%clk 0:02:03] } 18. Bxg7 { [%clk 0:02:24] } 18... Qxg7 { [%clk 0:02:02] } 19. Kh2 { [%clk 0:02:15] } 19... Rf7 { [%clk 0:01:57] } 20. Rf2 { [%clk 0:02:05] } 20... Raf8 { [%clk 0:01:55] } 21. Ref1 { [%clk 0:02:04] } 21... h5 { [%clk 0:01:43] } 22. Qg5 { [%clk 0:02:00] } 22... Qf6 { [%clk 0:01:43] } 23. Qxf6 { [%clk 0:01:55] } 23... Rxf6 { [%clk 0:01:43] } 24. g4 { [%clk 0:01:51] } 24... hxg4 { [%clk 0:01:37] } 25. hxg4 { [%clk 0:01:50] } 25... f4 { Now the g4 pawn is a permanent weakness } { [%clk 0:01:37] } 26. g5 { [%clk 0:01:48] } 26... R6f7 { [%clk 0:01:36] } 27. g3 { [%clk 0:01:48] } 27... Kg7 { [%clk 0:01:30] } (27... Rh7+ 28. Kg1 Bh3 29. Re1 Rh5 { This is a more effective plan for Black. Undouble the White rooks on the f-file and immediately target the g5 pawn. }) 28. gxf4 { [%clk 0:01:44] } 28... exf4 { [%clk 0:01:29] } 29. Kg2 { [%clk 0:01:42] } 29... Rh8 { [%clk 0:01:26] } 30. Rh1 { [%clk 0:01:40] } 30... Rxh1 { [%clk 0:01:09] } 31. Kxh1 { [%clk 0:01:40] } 31... Bg4 { [%clk 0:01:07] } 32. Nxa4 { [%clk 0:01:33] } 32... Nd7 { [%clk 0:01:02] } 33. Nc3 { [%clk 0:01:26] } 33... Ne5 { [%clk 0:01:01] } 34. b3 { [%clk 0:01:24] } 34... Nf3 { [%clk 0:00:52] } 35. Bd1 { [%clk 0:01:12] } 35... Ne5 { [%clk 0:00:47] } 36. Bxg4 { [%clk 0:01:11] } 36... Nxg4 { [%clk 0:00:47] } 37. Rf1 { [%clk 0:01:07] } 37... f3 { [%clk 0:00:44] } 38. Kg1 { [%clk 0:01:05] } 38... Rf4 { [%clk 0:00:38] } 39. Nd1 { [%clk 0:01:03] } 39... Ne5 { [%clk 0:00:35] } 40. Nf2 { [%clk 0:00:57] } 40... Rh4 { [%clk 0:00:33] } 41. Rc1 { [%clk 0:00:50] } 41... Rh5 { [%clk 0:00:33] } 42. b4 { [%clk 0:00:47] } 42... Rxg5+ { [%clk 0:00:32] } 43. Kf1 { [%clk 0:00:46] } 43... Rg2 { [%clk 0:00:31] } 44. Rc3 { [%clk 0:00:43] } 44... g5 { [%clk 0:00:29] } 45. Rxf3 { [%clk 0:00:37] } 45... Nxf3 { [%clk 0:00:27] } 46. Kxg2 { [%clk 0:00:36] } 46... Nd2 { [%clk 0:00:27] } 47. c5 { [%clk 0:00:34] } 47... dxc5 { [%clk 0:00:25] } 48. bxc5 { [%clk 0:00:34] } 48... bxc5 { [%clk 0:00:24] } 49. a4 { [%clk 0:00:33] } 49... Nc4 { [%clk 0:00:22] } 50. Nd3 { [%clk 0:00:31] } 50... Kf6 { [%clk 0:00:19] } 51. Nxc5 { [%clk 0:00:31] } 51... Ke5 { [%clk 0:00:19] } 52. Kf3 { [%clk 0:00:29] } 52... Kd4 { [%clk 0:00:18] } 53. Ne6+ { [%clk 0:00:27] } 53... Kc3 { [%clk 0:00:17] } 54. Nxg5 { [%clk 0:00:26] } 54... Kb4 { [%clk 0:00:16] } 55. Kf4 { [%clk 0:00:26] } 55... Kxa4 { [%clk 0:00:16] } 56. e5 { [%clk 0:00:26] } 56... Kb5 { [%clk 0:00:15] } 57. e6 { [%clk 0:00:25] } 57... Kc5 { [%clk 0:00:14] } 58. e7 { [%clk 0:00:24] } 58... Nd6 { [%clk 0:00:13] } 59. Ne4+ { [%clk 0:00:24] } 59... Nxe4 { [%clk 0:00:07] } 60. Kxe4 { 1-0 Black resigns. } { [%clk 0:00:24] } 1-0
+
+
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/tTeFbjgf"]
+[Date "2019.08.27"]
+[Round "-"]
+[White "kalisi1"]
+[Black "Mr_Penings"]
+[Result "0-1"]
+[WhiteElo "2361"]
+[BlackElo "2560"]
+[BlackTitle "NM"]
+[TimeControl "180+0"]
+[Termination "Time forfeit"]
+[Annotator "https://lichess.org/@/Mr_Penings"]
+[UTCDate "2020.06.19"]
+[UTCTime "12:11:03"]
+[Variant "Standard"]
+[ECO "A45"]
+[Opening "Indian Defense"]
+
+1. d4 { [%clk 0:03:00] } 1... Nf6 { [%clk 0:03:00] } 2. e3 { [%clk 0:02:59] } 2... g6 { [%clk 0:02:59] } 3. Bd3 { [%clk 0:02:59] } 3... Bg7 { [%clk 0:02:58] } 4. f4 { [%clk 0:02:58] } 4... O-O { [%clk 0:02:58] } 5. Nf3 { [%clk 0:02:58] } 5... d6 { Time to refute the Stonewall } { [%clk 0:02:58] } 6. O-O { [%clk 0:02:57] } 6... Nc6 { [%clk 0:02:57] } 7. e4 { [%clk 0:02:57] } 7... e5 { [%clk 0:02:56] } 8. d5 { [%clk 0:02:56] } 8... Nd4 { [%clk 0:02:54] } 9. c4 { [%clk 0:02:52] } 9... Bg4 { [%clk 0:02:51] } 10. Nc3 { [%clk 0:02:40] } 10... exf4 { [%clk 0:02:27] } 11. Bxf4 { [%clk 0:02:36] } 11... Nd7 { [%clk 0:02:26] } 12. Be3 { [%clk 0:02:22] } 12... Nxf3+ { [%clk 0:02:18] } 13. gxf3 { [%clk 0:02:19] } 13... Bh3 { [%clk 0:02:18] } 14. Rf2 { [%clk 0:02:19] } 14... Ne5 { [%clk 0:02:14] } 15. Be2 { [%clk 0:02:16] } 15... f5 { Black benefits from any opening of the center. f4 is a threat } { [%clk 0:02:12] } 16. Kh1 { [%clk 0:01:49] } 16... f4 { [%clk 0:02:05] } 17. Bd4 { [%clk 0:01:47] } 17... Qh4 { [%clk 0:02:03] } 18. Bf1 { [%clk 0:01:28] } 18... Bxf1 { [%clk 0:01:40] } 19. Qxf1 { [%clk 0:01:21] } 19... Ng4 { [%clk 0:01:25] } 20. fxg4 { [%clk 0:01:06] } 20... Bxd4 { [%clk 0:01:23] } 21. Rg2 { [%clk 0:01:05] } 21... f3 { [%clk 0:01:20] } 22. Rg3 { [%clk 0:01:01] } 22... Be5 { [%clk 0:01:16] } 23. Rh3 { [%clk 0:00:56] } 23... Qxg4 { [%clk 0:01:15] } 24. Nd1 { [%clk 0:00:49] } 24... Qxe4 { [%clk 0:01:04] } 25. Nf2 { [%clk 0:00:41] } 25... Qe2 { [%clk 0:01:03] } 26. Re1 { [%clk 0:00:35] } 26... Qxf1+ { [%clk 0:01:00] } 27. Rxf1 { [%clk 0:00:34] } 27... Bxb2 { [%clk 0:00:59] } 28. Nd3 { [%clk 0:00:30] } 28... Bd4 { [%clk 0:00:58] } 29. Rhxf3 { [%clk 0:00:29] } 29... Rxf3 { [%clk 0:00:57] } 30. Rxf3 { [%clk 0:00:28] } 30... Rf8 { [%clk 0:00:56] } 31. Rxf8+ { [%clk 0:00:26] } 31... Kxf8 { Winning endgame up 2 pawns } { [%clk 0:00:55] } 32. Kg2 { [%clk 0:00:26] } 32... Kf7 { [%clk 0:00:54] } 33. Kf3 { [%clk 0:00:26] } 33... Kf6 { [%clk 0:00:53] } 34. Ke4 { [%clk 0:00:25] } 34... Bg1 { [%clk 0:00:52] } 35. h3 { [%clk 0:00:24] } 35... Kg5 { [%clk 0:00:50] } 36. Nf4 { [%clk 0:00:23] } 36... Kh4 { [%clk 0:00:45] } 37. Kf3 { [%clk 0:00:20] } 37... g5 { [%clk 0:00:30] } 38. Ne6 { [%clk 0:00:19] } 38... c6 { [%clk 0:00:14] } 39. Kg2 { [%clk 0:00:15] } 39... Bc5 { [%clk 0:00:12] } 40. Nd8 { [%clk 0:00:12] } 40... cxd5 { [%clk 0:00:11] } 41. cxd5 { [%clk 0:00:12] } 41... h5 { [%clk 0:00:10] } 42. Nxb7 { [%clk 0:00:10] } 42... g4 { [%clk 0:00:10] } 43. hxg4 { [%clk 0:00:09] } 43... Kg5 { [%clk 0:00:09] } 44. gxh5 { [%clk 0:00:07] } 44... Bb6 { [%clk 0:00:08] } 45. Kf3 { [%clk 0:00:06] } 45... Kxh5 { [%clk 0:00:08] } 46. Ke4 { [%clk 0:00:06] } 46... Kg6 { [%clk 0:00:08] } 47. a4 { [%clk 0:00:03] } 47... Kf7 { [%clk 0:00:08] } 48. a5 { [%clk 0:00:02] } 48... Bd8 { [%clk 0:00:07] } 49. Nxd8+ { [%clk 0:00:01] } 49... Ke8 { [%clk 0:00:07] } 50. Nb7 { [%clk 0:00:01] } 50... Kd7 { [%clk 0:00:07] } 51. Nxd6 { [%clk 0:00:00] } 51... Kxd6 { 0-1 Black wins on time. } { [%clk 0:00:07] } 0-1
+
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2019.08.06"]
+[White "Heineccius"]
+[Black "Mr_Penings"]
+[Result "0-1"]
+[WhiteElo "2538"]
+[BlackElo "2504"]
+[TimeControl "180+2"]
+[Termination "Mr_Penings won by checkmate"]
+[Annotator "https://lichess.org/@/Mr_Penings"]
+[UTCDate "2020.06.19"]
+[UTCTime "12:11:03"]
+[Variant "Standard"]
+[ECO "E68"]
+[Opening "King's Indian Defense, Fianchetto Variation, Classical Variation"]
+
+1. d4 Nf6 2. c4 d6 3. Nf3 g6 4. g3 Bg7 5. Bg2 O-O 6. O-O Nbd7 7. Nc3 e5 8. e4 b6 9. h3 Bb7 10. Re1 Re8 11. d5 a5 12. b3 Nc5 13. Rb1 c6 { The point of c6 is to exchange and then open up the f1-a6 diagonal for the bishop and the c-file for your rook. } 14. a3 cxd5 15. cxd5 Ba6 16. Bf1 Bxf1 17. Kxf1 Qd7 18. Kg2 b5 19. b4 axb4 20. Rxb4 Ra5 21. Qe2 Rb8 22. Nd2 h5 23. Nb3 Nxb3 24. Rxb3 Ne8 25. Bd2 Nc7 26. Reb1 Ra7 27. a4 b4 28. Rxb4 Rxb4 29. Rxb4 Na6 30. Rb5 Nc5 31. Qc4 Rc7 32. Qb4 h4 33. Qb1 hxg3 34. fxg3 f5 35. exf5 gxf5 36. Rb8+ Kh7 37. a5 e4 38. Qd1 Qf7 39. Nb5 Rd7 40. Bf4 Nd3 41. Bxd6 Kg6 42. Qe2 Qxd5 43. Rb6 e3+ 44. Kh2 Nf2 45. Bf4+ Bf6 46. Qf1 Ng4+ 47. Kg1 e2 48. Qxe2 Re7 49. Qxe7 Qd1+ 50. Kg2 Qc2+ 51. Kf3 Qf2# { 0-1 Black wins by checkmate. } 0-1
+
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2019.01.20"]
+[White "Witik"]
+[Black "Mr_Penings"]
+[Result "0-1"]
+[WhiteElo "2679"]
+[BlackElo "2522"]
+[TimeControl "180"]
+[Termination "Mr_Penings won by checkmate"]
+[Annotator "https://lichess.org/@/Mr_Penings"]
+[UTCDate "2020.06.19"]
+[UTCTime "12:11:03"]
+[Variant "Standard"]
+[ECO "E95"]
+[Opening "King's Indian Defense: Orthodox Variation"]
+
+1. d4 { [%clk 0:03:00] } 1... Nf6 { [%clk 0:02:59] } 2. c4 { [%clk 0:02:59] } 2... d6 { [%clk 0:02:58] } 3. Nf3 { [%clk 0:02:56] } 3... g6 { [%clk 0:02:55] } 4. Nc3 { [%clk 0:02:56] } 4... Bg7 { [%clk 0:02:55] } 5. e4 { [%clk 0:02:55] } 5... O-O { [%clk 0:02:54] } 6. Be2 { [%clk 0:02:55] } 6... Nbd7 { [%clk 0:02:54] } 7. O-O { [%clk 0:02:54] } 7... e5 { [%clk 0:02:53] } 8. Re1 { [%clk 0:02:54] } 8... b6 { [%clk 0:02:52] } 9. Bf1 { [%clk 0:02:50] } 9... Bb7 { [%clk 0:02:51] } 10. d5 { [%clk 0:02:49] } 10... a5 { [%clk 0:02:50] } 11. Bg5 { [%clk 0:02:47] } 11... h6 { [%clk 0:02:48] } 12. Bh4 { [%clk 0:02:45] } 12... g5 { [%clk 0:02:45] } 13. Bg3 { [%clk 0:02:44] } 13... Re8 { [%clk 0:02:38] } 14. Nd2 { [%clk 0:02:40] } 14... Nf8 { [%clk 0:02:32] } 15. Bd3 { [%clk 0:02:33] } 15... Ng6 { [%clk 0:02:31] } 16. Nf1 { [%clk 0:02:32] } 16... Nd7 { [%clk 0:02:25] } 17. Ne3 { [%clk 0:02:31] } 17... Nc5 { [%clk 0:02:24] } 18. Bf1 { [%clk 0:02:28] } 18... Bc8 { [%clk 0:02:22] } 19. Qc2 { [%clk 0:02:22] } 19... Nf4 { [%clk 0:02:21] } 20. b3 { [%clk 0:02:18] } 20... h5 { [%clk 0:02:19] } 21. f3 { [%clk 0:02:17] } 21... g4 { [%clk 0:02:06] } 22. fxg4 { [%clk 0:02:15] } 22... hxg4 { [%clk 0:02:05] } 23. a3 { [%clk 0:02:12] } 23... a4!? { The point of a4 is to keep the c5 outpost. If White plays b4, the knight will further invade with Nb3 and possibly Nd4 next } { [%clk 0:01:51] } 24. bxa4 { [%clk 0:02:10] } (24. b4 Nb3) 24... Bd7 { [%clk 0:01:50] } 25. Nf5 { [%clk 0:02:09] } 25... Nxa4 { [%clk 0:01:37] } 26. Ne2 { [%clk 0:02:00] } 26... Qg5 { [%clk 0:01:27] } 27. Bh4 { [%clk 0:01:50] } 27... Qh5 { [%clk 0:01:17] } 28. Neg3 { [%clk 0:01:46] } 28... Qh7 { [%clk 0:01:12] } 29. Bg5 { [%clk 0:01:24] } 29... f6 { [%clk 0:01:01] } 30. Bh4 { [%clk 0:01:08] } 30... Ng6 { [%clk 0:01:00] } 31. Nxg7 { [%clk 0:01:00] } 31... Kxg7 { [%clk 0:00:58] } 32. Bxf6+ { [%clk 0:00:50] } 32... Kxf6 { [%clk 0:00:58] } 33. Bd3 { [%clk 0:00:45] } 33... Nc5 { [%clk 0:00:55] } 34. Rf1+ { [%clk 0:00:44] } 34... Nf4 { [%clk 0:00:54] } 35. Rxf4+ { [%clk 0:00:29] } 35... exf4 { [%clk 0:00:53] } 36. Rf1 { [%clk 0:00:28] } 36... Ke7 { [%clk 0:00:45] } 37. Rxf4 { [%clk 0:00:27] } 37... Rh8 { [%clk 0:00:42] } 38. Qc3 { [%clk 0:00:24] } 38... Qxh2+ { [%clk 0:00:40] } 39. Kf2 { [%clk 0:00:23] } 39... Nxd3+ { [%clk 0:00:33] } 40. Qxd3 { [%clk 0:00:23] } 40... Rhf8 { [%clk 0:00:32] } 41. Rxf8 { [%clk 0:00:19] } 41... Rxf8+ { [%clk 0:00:30] } 42. Ke1 { [%clk 0:00:19] } 42... Qg1+ { [%clk 0:00:28] } 43. Kd2 { [%clk 0:00:19] } 43... Qxg2+ { [%clk 0:00:26] } 44. Kc1 { [%clk 0:00:18] } 44... Rf3 { [%clk 0:00:23] } 45. Qd4 { [%clk 0:00:13] } 45... Qxg3 { [%clk 0:00:19] } 46. Qg7+ { [%clk 0:00:12] } 46... Rf7 { [%clk 0:00:18] } 47. Qg5+ { [%clk 0:00:12] } 47... Ke8 { [%clk 0:00:17] } 48. Qg8+ { [%clk 0:00:11] } 48... Rf8 { [%clk 0:00:16] } 49. Qg6+ { [%clk 0:00:10] } 49... Kd8 { [%clk 0:00:15] } 50. Qg5+ { [%clk 0:00:09] } 50... Kc8 { Safe from any checks } { [%clk 0:00:14] } 51. Qd2 { [%clk 0:00:09] } 51... Qf4 { [%clk 0:00:13] } 52. Kc2 { [%clk 0:00:08] } 52... Qxd2+ { [%clk 0:00:12] } 53. Kxd2 { [%clk 0:00:08] } 53... g3 { [%clk 0:00:12] } 54. e5 { [%clk 0:00:07] } 54... g2 { [%clk 0:00:12] } 55. e6 { [%clk 0:00:07] } 55... Be8 { [%clk 0:00:11] } 56. e7 { [%clk 0:00:07] } 56... Rf7 { [%clk 0:00:10] } 57. c5 { [%clk 0:00:06] } 57... bxc5 { [%clk 0:00:09] } 58. Kc3 { [%clk 0:00:05] } 58... g1=Q { [%clk 0:00:09] } 59. Kc4 { [%clk 0:00:05] } 59... Qd4+ { [%clk 0:00:08] } 60. Kb3 { [%clk 0:00:05] } 60... Rf3+ { [%clk 0:00:07] } 61. Kc2 { [%clk 0:00:04] } 61... Qd3+ { [%clk 0:00:06] } 62. Kb2 { [%clk 0:00:03] } 62... Rf2+ { [%clk 0:00:06] } 63. Kc1 { [%clk 0:00:03] } 63... Qf1# { 0-1 Black wins by checkmate. } { [%clk 0:00:05] } 0-1
+
+
+[Event "2019 Marchand Open Games: Bryan Castro - Daniel He"]
+[Site "https://lichess.org/study/Hvo4trCd/WA3PqwNF"]
+[Result "*"]
+[Annotator "https://lichess.org/@/Mr_Penings"]
+[UTCDate "2020.06.19"]
+[UTCTime "12:11:03"]
+[Variant "Standard"]
+[ECO "E61"]
+[Opening "King's Indian Defense: Semi-Classical Variation, Queenside Storm Line"]
+
+1. d4 Nf6 2. Nf3 g6 3. e3 Bg7 4. Be2 O-O 5. O-O d6 6. c4 Nbd7 7. Nc3 e5 8. b4 { [%csl Gd8][%cal Gd8e7] } 8... Qe7 9. a4 e4 10. Ne1 c5 { Putting an early stop to the queenside expansion } 11. b5 Re8 12. Bb2 Nf8 13. Nc2 h5 { Another typical plan to reroute the Knight from f8-h7-g5 and start an attack with the two knights. } { [%cal Gf8h7,Gh7g5,Gf6g4] } 14. Qd2 { [%csl Gd6][%cal Gc3d5,Ga8d8,Ga1d1] } 14... Bf5 15. Rad1 Rad8 16. Qc1 Ne6 { [%cal Ge6g5] } 17. Qa1 Ng4 18. Nd5 Qh4 19. Bxg4 Bxg4 20. Rd2 cxd4 { [%cal Ga1h8] } 21. Bxd4 Nxd4 22. Nxd4 Be5 23. Nf4 Qg5 24. g3 h4 25. Qa3 { [%csl Gd8] } 25... Rc8 26. Qb3 Rc5 27. a5 Rec8 28. a6 { [%cal Gb7b6] } 28... bxa6 29. bxa6 Rxc4 30. Nb5 Rc1 31. Rxc1 Rxc1+ 32. Kg2 h3+ 33. Nxh3 Bf3# { 0-1 Black wins by checkmate. } *
+
+
+[Event "PNWCC FIDE Open - SOS: Rd6: IM Michael Lee - Daniel He"]
+[Site "https://lichess.org/study/FEGdnY89/YLXhaeCq"]
+[Result "*"]
+[Annotator "https://lichess.org/@/Mr_Penings"]
+[UTCDate "2020.06.19"]
+[UTCTime "12:11:03"]
+[Variant "Standard"]
+[ECO "E91"]
+[Opening "King's Indian Defense: Orthodox Variation"]
+
+1. Nf3 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. d4 O-O 6. Be2 Nbd7 7. h3 e5 8. d5 Nc5 9. Qc2 a5 10. g4 c6 11. Be3 cxd5 12. cxd5 b6 13. a3 Bd7 14. a4 Rc8 15. Nd2 Ne8 16. Rg1 Bf6 17. Nc4 Rb8 18. g5 Be7 19. h4 Nc7 20. f4 exf4 21. Bxf4 N7a6 22. Ra3 Nb4 { [%cal Ge7h4] } 23. Qd2 f6! { White's king is exposed in the center and the best way to exploit it is to open up the position. } 24. Bh2 (24. Bxd6 Bxd6 25. Nxd6 Bxa4 { [%cal Gd8d6] } 26. Ndb5 Nc2+) 24... fxg5 25. hxg5 Bxa4!? 26. Rxa4 (26. Nxa4 Nxe4 { The g5 pawn is falling next and White's king is in grave danger }) 26... b5 27. Nxa5 bxa4 28. Nc6 Nb3 29. Qd1 Nxc6 30. dxc6 Qb6 { Black is a solid exchange up and has a strong attack. I misplayed it later on and missed some winning chances. } 31. Qd5+ Kh8 32. Rg2 Qe3 { [%cal Ge3c1] } 33. Bg1 Qc1+? { Looks strong, but the queen sort of trapped itself and can no longer provide backup to White's attack on my king. } 34. Nd1 Rb4 35. Be3 Qc2 36. Rg4 Kg7 (36... Nc1 37. Bd4+ Rxd4 38. Qxd4+ Bf6 39. Qd2) 37. Qe6 Bd8? (37... Nd4!! { The best defense is a strong offense!! } { [%csl Gd4] } 38. Qxe7+ Rf7 { And double attack on the queen and checkmate. White must give up the queen now. } { [%cal Gc2e2] } 39. Bxd4+ Rxd4 { [%csl Gd2] }) 38. Qd7+ Kg8 39. Rh4 h5 40. Qe6+ { White takes the initiative and wins by 1 move. } 40... Kg7 (40... Kh7) 41. Bxh5 Bxg5 (41... gxh5 { [%cal Ge6h6] } 42. Qh6+ Kg8 (42... Kf7 { [%csl Gf8][%cal Gh4f4] })) 42. Qxg6+ Kh8 43. Qxg5 { Black resigns 1-0 } *
+
+
+[Event "PNWCC May USCF Open: Aaryan Deshpande - Daniel He"]
+[Site "https://lichess.org/study/R71m840G/JQrFpUA9"]
+[Result "*"]
+[Annotator "https://lichess.org/@/Mr_Penings"]
+[UTCDate "2020.06.19"]
+[UTCTime "12:11:03"]
+[Variant "Standard"]
+[ECO "E67"]
+[Opening "King's Indian Defense: Fianchetto Variation, Classical Fianchetto"]
+
+1. d4 Nf6 2. Nf3 g6 3. g3 Bg7 4. Bg2 O-O 5. O-O d6 6. c4 Nbd7 7. Nc3 e5 8. dxe5?! { Black always gets a comfortable position in the exchange variations } 8... dxe5 9. e4 c6 10. Qc2 Qc7 11. Ne1 Nc5 { Start of the path to the d4 outpost } 12. h3 Ne6 13. Be3 Nh5 14. Ne2 f5 15. g4 fxg4 16. hxg4 Nhf4 17. f3 Qe7 18. Nd3 h5 19. gxh5 Qg5 20. Ndxf4 exf4 21. Bf2 Qxh5 22. Qd2 Be5 23. Rad1 Kg7 24. Bd4 Nxd4 25. Nxd4 Rh8 26. Rfe1 Qh2+ 27. Kf1 Rh5 28. Qb4 Rg5 29. Qe7+ Kh6 30. Ke2 Qxg2+ 31. Kd3 Rh5 32. Rg1 Qf2 33. Nf5+ Bxf5 34. exf5 Qd4+ { 0-1 } *
+
+
+[Event "Washington Open 2019: David Murray - Daniel He"]
+[Site "https://lichess.org/study/3DUcU5ve/V0YiSl2F"]
+[Result "*"]
+[Annotator "https://lichess.org/@/Mr_Penings"]
+[UTCDate "2020.06.19"]
+[UTCTime "12:11:03"]
+[Variant "Standard"]
+[ECO "A48"]
+[Opening "London System"]
+
+{ Standard way to beat the London System }
+1. d4 Nf6 2. Nf3 g6 3. Bf4 Bg7 4. e3 O-O 5. Be2 d6 6. O-O Nbd7 7. h3 Qe8 8. Bh2 b6 9. Nbd2 Bb7 10. c4 e5 11. d5 a5 12. a3 a4 13. b4 axb3 14. Nxb3 Ne4 15. Qc2 f5 16. Nfd2 Nec5 17. Rfd1 e4 18. Nxc5 Nxc5 19. Ra2 Na4 20. Nb1 g5 21. Qd2 Bc8 22. Rc2 Qf7 23. f4 exf3 24. Bxf3 Qg6 25. Qd3 Nc5 26. Qd2 g4 { White loses either bishop } 27. Rf1 (27. Be2 g3) 27... g3 *
+
+
+[Event "🏆 King's Indian Defense Repertoire 🏆: ** Grandmaster Games in Kings Indian **"]
+[Site "https://lichess.org/study/NlFMirvk/Lz9DqFcp"]
+[Result "*"]
+[Annotator "https://lichess.org/@/Mr_Penings"]
+[UTCDate "2020.06.19"]
+[UTCTime "12:11:03"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+
+*
+
+
+[Event "World Cup"]
+[Site "Khanty-Mansiysk RUS"]
+[Date "2007.12.04"]
+[Round "4.2"]
+[White "Wang Yue"]
+[Black "Ivan Cheparinov"]
+[Result "0-1"]
+[WhiteElo "2703"]
+[BlackElo "2670"]
+[Annotator "https://lichess.org/@/Mr_Penings"]
+[UTCDate "2020.06.19"]
+[UTCTime "12:11:46"]
+[Variant "Standard"]
+[ECO "E87"]
+[Opening "King's Indian Defense: Sämisch Variation, Closed Variation"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Be3 e5 7. d5 Nh5 8. Qd2 f5 9. O-O-O a6 { Setting up b5. Even though it is a pawn sacrifice, Black will get the open a-file and plenty of compensation } 10. Kb1 Nd7 11. Bd3 Nc5 12. Bc2 b5! { There it is! } 13. cxb5 axb5 14. Nxb5 Ba6 15. Nc3 Qb8 16. Nge2 Qb4 { This is similar to a Benko gambit structure with the open a- and b- files lined up against the White king } 17. Bxc5 dxc5 18. a3 Qa5 19. Nc1 Bc4 20. Bb3 Bxb3 21. Nxb3 Qb6 22. Qc2 Rfb8 23. Ka2 Nf4 { Major pieces are well positioned. Now it's time to reroute the minors. } 24. Nc1 c4 25. Rd2 Bf8 26. g3 Bxa3 27. bxa3 Rxa3+ 28. Kxa3 Qb4+ 29. Ka2 Ra8+ 30. Na4 c3 31. Ka1 cxd2 32. Na2 Rxa4 33. gxf4 Qd4+ 34. Kb1 Rc4 35. Qb3 fxe4 36. d6 cxd6 37. fxe4 Qxe4+ 38. Kb2 Qxh1 39. Qxc4+ Kg7 40. Qe6 d1=N+ 41. Kc2 Ne3+ 42. Kd3 Nf5 43. fxe5 Qf3+ 44. Kd2 Qf2+ 45. Kd3 Qd4+ 46. Kc2 dxe5 47. Nc3 Qf2+ 48. Kb1 Qg1+ 49. Kb2 Qxh2+ 50. Ka3 Qg3 51. Kb4 Qf4+ 52. Ka5 Qd4 53. Nd5 Qc5+ 54. Ka4 Qd6 { 0-1 White resigns. } 0-1
+
+
+[Event "Amsterdam VSB"]
+[Site "Amsterdam NED"]
+[Date "1991.05.10"]
+[Round "7"]
+[White "Viktor Korchnoi"]
+[Black "Garry Kasparov"]
+[Result "0-1"]
+[Annotator "https://lichess.org/@/Spinebag"]
+[UTCDate "2020.06.19"]
+[UTCTime "12:11:46"]
+[Variant "Standard"]
+[ECO "E98"]
+[Opening "King's Indian Defense: Orthodox Variation, Classical System, Neo-Classical Line"]
+
+1. Nf3 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. d4 O-O 6. Be2 e5 7. O-O Nc6 8. d5 Ne7 9. Ne1 { The classical kings Indian. } 9... Nd7 10. Be3 f5 11. f3 f4 12. Bf2 g5 13. a4 Ng6 14. Nd3 Nf6 15. c5 h5 16. h3 Rf7 { A normal multipurpose move. Black prepares Bf8 to further defend against any queenside play as well as start a rook lift to g7 to aid in the g4 push. } 17. c6 a5 18. cxb7 Bxb7 19. b4 Bc8 20. bxa5 Bh6 21. Nb4 g4 { Black just ignores any of White's play. Sometimes the best defense is an even stronger offense! And the result shows } 22. Nc6 Qf8 23. fxg4 hxg4 24. hxg4 Bg5 25. Bf3 Qh6 26. Re1 Nh4 27. Bxh4 Bxh4 28. g5 Qxg5 29. Re2 Ng4 30. Rb1 Bg3 31. Qd3 Qh4 { Unstoppable checkmate } 0-1
+
+
+[Event "World Team Championship"]
+[Site "Bursa TUR"]
+[Date "2010.01.09"]
+[Round "5"]
+[White "Boris Gelfand"]
+[Black "Hikaru Nakamura"]
+[Result "0-1"]
+[WhiteElo "2761"]
+[BlackElo "2708"]
+[Annotator "https://lichess.org/@/Mr_Penings"]
+[UTCDate "2020.06.19"]
+[UTCTime "12:11:46"]
+[Variant "Standard"]
+[ECO "E97"]
+[Opening "King's Indian Defense: Orthodox Variation, Modern System"]
+
+{ Nakamura's games in the Kings Indian are always exciting. Here he defeats Gelfand, one of the greatest positional players ever in a sharp tactical battle. }
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. O-O Nc6 8. d5 Ne7 9. Nd2 Ne8 10. b4 f5 11. c5 Nf6 12. f3 f4 13. Nc4 g5 14. a4 Ng6 15. Ba3 Rf7 16. b5 dxc5 (16... Bf8 17. b6 { Nakamura likely didn't play 16. Bf8 because he anticipated b6 by Gelfand next, completely shattering the pawn chain. In all lines, White gets plenty of pressure on the base of the pawn chain, likely to be d6. } 17... axb6 18. cxb6 cxb6 19. Nb5 Ne8 { Too many liabilities on the queenside for nakamura. The d6 pawn always needs babysitting and doubled b-pawns are never fun. }) 17. Bxc5 h5 18. a5 g4 19. b6 g3 { Just ignoring White's plan! } 20. Kh1 Bf8 21. d6 axb6 22. Bg1 Nh4 23. Re1 Nxg2! { Sacrifices like these are very common. They gain one important thing: The initiative! } 24. dxc7 (24. Kxg2 Rg7 25. h3 Qd7) 24... Nxe1 25. Qxe1 g2+ 26. Kxg2 Rg7+ 27. Kh1 Bh3 28. Bf1 Qd3!! { Offering a queen, but White cannot capture or he is mated. Plus, Qxf3 is also leading to checkmate. } 29. Nxe5 (29. Bxd3 Bg2#) 29... Bxf1 30. Qxf1 (30. Nxd3 Bg2#) 30... Qxc3 31. Rc1 Qxe5 32. c8=Q Rxc8 33. Rxc8 Qe6 { Just a brilliant game! Go over this several times, and it will still leave you in shock. } { 0-1 White resigns. } 0-1
+
+
+[Event "Zurich Candidates"]
+[Site "Zurich SUI"]
+[Date "1953.09.05"]
+[Round "4"]
+[White "Mark Taimanov"]
+[Black "Miguel Najdorf"]
+[Result "0-1"]
+[Annotator "https://lichess.org/@/Spinebag"]
+[UTCDate "2020.06.19"]
+[UTCTime "12:11:46"]
+[Variant "Standard"]
+[ECO "E98"]
+[Opening "King's Indian Defense: Orthodox Variation, Classical System, Neo-Classical Line"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. O-O Nc6 8. d5 Ne7 9. Ne1 Nd7 10. Be3 f5 11. f3 f4 12. Bf2 g5 13. Nd3 Nf6 14. c5 Ng6 15. Rc1 Rf7 16. Rc2 Bf8 17. cxd6 cxd6 18. Qd2 g4 19. Rfc1 g3! { Pawn sacrifice to force open some lines and seize the initiative. Watch how black's pieces come in so suddenly and White has no time to continue on the other end } 20. hxg3 fxg3 21. Bxg3 Nh5 22. Bh2 Be7 23. Nb1 Bd7 (23... Bg5?? 24. Rxc8 { And Black's queen is overworked }) 24. Qe1 Bg5 25. Nd2 Be3+ 26. Kh1 Qg5 27. Bf1 Raf8 28. Rd1 b5 29. a4 a6 30. axb5 axb5 31. Rc7 Rg7 32. Nb3 Nh4 33. Rc2 Bh3 { Brilliant! White cannot capture the bishop due but now g2 is under so much pressure as well } 34. Qe2 (34. gxh3 Qg1+ 35. Bxg1 Rxg1+ 36. Kh2 Nxf3#) 34... Nxg2 35. Bxg2 Bxg2+ 36. Qxg2 Qh4 { White's queen is out of squares } 37. Qxg7+ Kxg7 38. Rg2+ Kh8 39. Ne1 Nf4 40. Rg3 Bf2 41. Rg4 Qh3 42. Nd2 h5 43. Rg5 { 0-1 White resigns. } 0-1
+
+
+[Event "Herceg Novi blitz"]
+[Site "Herceg Novi MNE"]
+[Date "1970.04.08"]
+[Round "10.1"]
+[White "Viktor Korchnoi"]
+[Black "Robert James Fischer"]
+[Result "0-1"]
+[Annotator "https://lichess.org/@/Spinebag"]
+[UTCDate "2020.06.19"]
+[UTCTime "12:11:46"]
+[Variant "Standard"]
+[ECO "E97"]
+[Opening "King's Indian Defense: Orthodox Variation, Modern System"]
+
+1. d4 { Notes by Bobby Fischer } 1... Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Be2 O-O 6. Nf3 e5 7. O-O Nc6 8. d5 Ne7 9. Nd2 { This move
+is apparently considered best by the Russians. In the "Turner
+Mira" 1970, Petrosian played 9 b4 Nh5 10 Nd2!? Nf4 11 a4, but
+without great success against Gligoric. } 9... c5 { I think this is a
+logical move. Black takes a tempo from his King side play to
+slow down White's Queen side initiative which usually comes
+quite quickly with b4, c5, etc. } 10. a3 Ne8 11. b4 b6 12. Rb1 f5 { ! Having made all the necessary precautions on the Queen's
+side Black is now ready to attack on the King's flank. } 13. f3 { Maybe better is 13 Nb3 as in the game Gligoric-Tringov,
+Belgrade, 1969. } 13... f4 14. a4 g5 15. a5 Rf6 { ! } 16. bxc5 { ? This
+is, as Korchnoi pointed out afterwards, a "terrible mistake"
+because now it is impossible for White to get any initiative
+on the Queen side. } 16... bxc5 17. Nb3 Rg6 18. Bd2 Nf6 { or ...h5! } 19. Kh1 g4 { Maybe more exact was 19...h5 } 20. fxg4 { Forced
+because of the threat of 20...g3 and then white cannot play 21
+h3 because of 21...Bxh3 etc. } 20... Nxg4 21. Rf3 { ? 21 Bf3! was
+better, with a more tenacious defence.. } 21... Rh6 22. h3 Ng6 23. Kg1 Nf6 24. Be1 Nh8 { !! This attacking manouver is
+decisive. } 25. Rd3 Nf7 26. Bf3 { h4!? held out a little
+longer. } 26... Ng5 27. Qe2 Rg6 28. Kf1 { Or 28 Kh2 Qd7 threatens
+29...Nxh3 etc. } 28... Nxh3 29. gxh3 Bxh3+ 30. Kf2 { At this moment my
+hand hovered over White's Pawn on e4, but at the last second I
+realized that 30...Nxe4 is answered by 31 Qxe4 and White
+wins. } 30... Ng4+ 31. Bxg4 Bxg4 { And here Korchnoi thought for about
+a minute and a half and not seeing a defence to the double
+threat of 31...Bxe2 and 32...Qh4+ resigned. } 0-1
+
+
+[Event "Fischer - Larsen Candidates Semifinal"]
+[Site "Denver, CO USA"]
+[Date "1971.07.13"]
+[Round "4"]
+[White "Bent Larsen"]
+[Black "Robert James Fischer"]
+[Result "0-1"]
+[Annotator "https://lichess.org/@/Spinebag"]
+[UTCDate "2020.06.19"]
+[UTCTime "12:11:46"]
+[Variant "Standard"]
+[ECO "E97"]
+[Opening "King's Indian Defense: Orthodox Variation, Modern System"]
+
+1. c4 g6 2. Nf3 Bg7 3. d4 Nf6 4. Nc3 O-O 5. e4 d6 6. Be2 e5 7. O-O Nc6 8. d5 Ne7 9. Nd2 c5 { A common theme you've seen is a race between Black's attack vs White's queenside expansion. With this in mind, c5 makes total sense. Why not slow down White's plan to an extreme first before starting your attack? } 10. Rb1 Ne8 11. b4 b6 (11... cxb4 12. Rxb4 f5 { The d6 pawn is backwards and may be a big target later on. }) 12. a4 f5 13. a5 Nf6 14. Qa4 Bd7 15. Qa3 Bh6 16. Bd3 Qc7 17. bxc5 bxc5 18. exf5 gxf5 19. Bc2 a6 20. Nde4!? { Taking advantage of the fact that the Bh6 is loose } 20... Bxc1 21. Nxf6+ Rxf6 22. Rfxc1 Raf8 23. Rb6 Bc8 { Black has to make sure White's pieces don't invade. That means keeping a6 no matter what. Otherwise, Nb5 will come and the a-pawn runs. } 24. Ne2 f4 25. Be4 Nf5 26. Rc6 Qg7 27. Rb1 Nh4 28. Qd3 Bf5 29. Kh1 f3 30. Ng3 fxg2+ 31. Kg1 Bxe4 32. Qxe4 Nf3+ 33. Kxg2 Nd2 { 0-1 White resigns. } 0-1
+
+
+[Event "Mar del Plata"]
+[Site "Mar del Plata ARG"]
+[Date "1953.03.28"]
+[Round "12"]
+[White "Miguel Najdorf"]
+[Black "Svetozar Gligoric"]
+[Result "0-1"]
+[Annotator "https://lichess.org/@/Spinebag"]
+[UTCDate "2020.06.19"]
+[UTCTime "12:11:46"]
+[Variant "Standard"]
+[ECO "E98"]
+[Opening "King's Indian Defense: Orthodox Variation, Classical System"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. O-O Nc6 8. d5 Ne7 9. Ne1 Nd7 10. Nd3 f5 11. f3 f4 12. Bd2 Nf6 13. b4 g5 14. c5 h5 15. Nf2 Ng6 16. Rc1 Rf7 17. cxd6 cxd6 18. a4 Bf8 19. a5 Rg7 20. h3 Nh8!? { A very bizarre move. Black intends on derouting the knight to h6 later to aid the g4 break. Very deep! } 21. Nb5 g4 22. fxg4 hxg4 23. hxg4 a6 24. Na3 Bd7 25. Nc4 Rc8 26. Nb6 Rxc1 27. Bxc1 Be8 28. Ba3 Nf7 29. Qc2 Nh6 { The knight reaches its dream destination 10 moves later } 30. g5 Rxg5 31. Rc1 Rg3 32. Bb2 Nfg4 33. Nxg4 Nxg4 34. Bxg4 Rxg4 35. Qf2 Bg6 36. Rc4 Qe7 37. Bc3 Qh7 38. Qe2 (38. Rc8 Rh4 { White can't even create threats due to all the counterplay Black has }) 38... Rh4 39. Kf2 f3!! { Just brilliant! Tossing a pawn into White's position. He has 3 ways to capture but none of them work. } 40. Qe3 (40. gxf3 Rh2+)  (40. Qxf3 Rf4)  (40. Kxf3 Bh5+) 40... Rf4 41. gxf3 Qh2+ 42. Ke1 Qh1+ 43. Ke2 Bh5 44. Kd2 Rxf3 45. Qg5+ Bg7 46. Kc2 Rf2+ 47. Bd2 Qd1+ 48. Kc3 Qa1+ { 0-1 White resigns. } 0-1
+
+
+[Event "45th Annual World Open"]
+[Site "Philadelphia USA"]
+[Date "2017.07.03"]
+[Round "6"]
+[White "Wheeler, Cameron"]
+[Black "Bachmann, Axel"]
+[Result "0-1"]
+[WhiteElo "2407"]
+[BlackElo "2653"]
+[Annotator "https://lichess.org/@/Mr_Penings"]
+[UTCDate "2020.06.19"]
+[UTCTime "12:11:46"]
+[Variant "Standard"]
+[ECO "E68"]
+[Opening "King's Indian Defense, Fianchetto Variation, Classical Variation"]
+
+1. Nf3 Nf6 2. c4 g6 3. Nc3 d6 4. d4 Bg7 5. g3 O-O 6. Bg2 Nbd7 7. O-O e5 8. e4 exd4 9. Nxd4 Re8 10. h3 a6 11. Re1 Rb8 12. Be3 Ne5 13. b3 c5 14. Nde2 b5 { Expansion on the queenside begins. White's under a lot of pressure alraedy. } 15. f4 Ned7 16. Qxd6 { Temporarily sacrificing the d6 pawn for pressure from afar } 16... b4 17. e5 { That unprotected bishop on e3 is going to be a huge liability for White. } 17... bxc3 18. exf6 Rxe3 19. fxg7 Rb6 20. Qd1 Rbe6 21. Kf2 Qf6 22. Qc2 Re8 23. Rad1 Qe7 24. Rd3 Nf6 25. Rxc3 Bxh3 26. Qd2 (26. Bxh3 Rxc3 27. Qxc3 Ne4+) 26... Ne4+ { 0-1 White resigns. } 27. Bxe4 Qxe4 { Qg2# is also a big threat. Too much to handle, so White resigns } 0-1
+
+
+[Event "Isle of Man Masters"]
+[Site "Douglas IMN"]
+[Date "2018.10.22"]
+[Round "3.28"]
+[White "Shah Fenil"]
+[Black "Vladimir Kramnik"]
+[Result "0-1"]
+[WhiteElo "2411"]
+[BlackElo "2779"]
+[Annotator "https://lichess.org/@/Mr_Penings"]
+[UTCDate "2020.06.19"]
+[UTCTime "12:11:46"]
+[Variant "Standard"]
+[ECO "A48"]
+[Opening "East Indian Defense"]
+
+1. d4 Nf6 2. Nf3 g6 3. Nbd2 Bg7 4. e4 d6 5. Bd3 O-O 6. O-O Nc6 7. Re1 e5 8. c3 h6 9. dxe5 { Likely an attempt by the lower rated player to make a draw against the legendary Kramnik. It did not end well. } 9... Nxe5 10. Nxe5 dxe5 11. Nf3 Qe7 12. Bc4 b6 13. a4 Bb7 14. Qc2 Rfd8 15. h3 a6 16. b4 Kh7 17. Ba3 Qe8 18. b5 axb5 19. axb5 Rd7 20. Nd2 Qd8 21. Nf1 Bf8 22. Bxf8 Rxa1 23. Rxa1 Qxf8 24. Ng3 h5 25. Ra7 h4 26. Rxb7 hxg3 27. Ra7 Qc5 { Fairly straightforward win by Kramnik! } { 0-1 White resigns. } 0-1
