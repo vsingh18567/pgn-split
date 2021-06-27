@@ -1,9 +1,0 @@
-[Event "?"]
-[Site "?"]
-[Date "????.??.??"]
-[Round "?"]
-[White "?"]
-[Black "?"]
-[Result "*"]
-
-1. d4 Nf6 2. c4 d6 3. Nc3 e5 { 3. g6 would transpose to a normal King's Indian. However, my recommended move order avoids the sharper Saemisch and 4 Pawns attack. } 4. dxe5 { See the following chapter on 4. dxe5 } 4... dxe5 5. Qxd8+ Kxd8 6. Nf3 Nfd7 7. e4 f6 8. Be3 c6 9. Be2 Kc7 10. O-O a5 { [%cal Gd7c5] } *

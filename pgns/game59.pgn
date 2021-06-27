@@ -1,9 +1,0 @@
-[Event "?"]
-[Site "?"]
-[Date "????.??.??"]
-[Round "?"]
-[White "?"]
-[Black "?"]
-[Result "*"]
-
-1. d4 Nf6 2. Nf3 g6 3. Bf4 Bg7 4. e3 O-O 5. Be2 d6 6. h3 { The start of the standard London setup by White. My general advice: If you want to beat the London, either 1) Don't play d5. and/or 2) Target the b2 pawn. } 6... Nbd7 7. O-O Qe8 { Preparing the e5 pawn break } 8. c4 { The most demanding move. White starts gaining space before playing Nc3. } 8... Ne4 $1 { Ne4 before white can play Nc3 is key. Below is a variation that illustrates why not playing Ne4 can be considered a technical inaccuracy. } 9. Nc3 Nxc3 10. bxc3 e5 { Hope it is clear why Ne4 was played: The f-pawn is free to move to f5 right away. There is no knight on f6 that has to be driven off first. } 11. Bh2 b6 12. Qc2 Bb7 13. Rad1 Qe7 { f5 is the plan next } *

@@ -1,9 +1,0 @@
-[Event "?"]
-[Site "?"]
-[Date "????.??.??"]
-[Round "?"]
-[White "?"]
-[Black "?"]
-[Result "*"]
-
-1. d4 Nf6 2. Bf4 g6 3. Nc3 d5 { This move does stray away from standard kings indian positions, but playing Bg7 allows e4, and we reach a Pirc, an inferior version of the KID, and not preferable. } 4. e3 Bg7 5. h4 h5 $1 { Black must play h5 here to stop White's h-pawn. 0-0 is a common mistake. } 6. Nf3 O-O 7. Be2 c5 { c5 + Nc6 to immediately contest the center seems to be the most effective. } 8. dxc5 { dxc5 is am ambitious try by White to win a pawn and hold on to it. However, it does open up the a1-h8 diagonal for Black's Kings Indian bishop.... } 8... Nbd7 $1 { Inviting Nxd5, but... } 9. Nxd5 Nxd5 10. Qxd5 Qa5+ 11. Qd2 Qxd2+ 12. Nxd2 Bxb2 13. Rb1 Bc3 14. Rb3 Bxd2+ 15. Kxd2 Nxc5 { It's around even here. For the bishop pair, White has to be stuck with a weak isolated c2 pawn on an open file. } *

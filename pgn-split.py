@@ -87,6 +87,6 @@ class PgnSplitter:
         self.counter += 1
 
 
-PgnSplitter('sample.pgn')
+PgnSplitter('gotham.pgn')
 
 

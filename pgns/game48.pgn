@@ -1,9 +1,0 @@
-[Event "?"]
-[Site "?"]
-[Date "????.??.??"]
-[Round "?"]
-[White "?"]
-[Black "?"]
-[Result "*"]
-
-1. d4 Nf6 2. Bf4 g6 3. Nc3 d5 { This move does stray away from standard kings indian positions, but playing Bg7 allows e4, and we reach a Pirc, an inferior version of the KID, and not preferable. } 4. e3 Bg7 5. h4 O-O $2 { The classic trap. } 6. h5 Nxh5 7. Rxh5 gxh5 8. Qxh5 { This scores extremely well in practice for White, and if you analyze this position closely, it will make sense. Although Black is up an exchange (Rook for knight), none of Black's pieces are developed and White will castle long and play Rh1. Can Black even defend against mate?? } 8... c6 9. Bd3 f5 10. Nf3 Qe8 11. Qh2 Nd7 12. O-O-O Nf6 13. Rh1 { A sample game may play out like this: It's real tough... } *

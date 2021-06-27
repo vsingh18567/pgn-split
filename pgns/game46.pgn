@@ -1,9 +1,0 @@
-[Event "?"]
-[Site "?"]
-[Date "????.??.??"]
-[Round "?"]
-[White "?"]
-[Black "?"]
-[Result "*"]
-
-1. d4 Nf6 2. Bf4 g6 3. Nc3 d5 { This move does stray away from standard kings indian positions, but playing Bg7 allows e4, and we reach a Pirc, an inferior version of the KID, and not preferable. } 4. e3 Bg7 5. h4 h5 $1 { Black must play h5 here to stop White's h-pawn. 0-0 is a common mistake. } 6. Nf3 O-O 7. Ne5 c5 *

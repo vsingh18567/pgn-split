@@ -6,4 +6,17 @@
 [Black "?"]
 [Result "*"]
 
-1. d4 Nf6 2. Bg5 g6 $6 3. Bxf6 exf6 { I do not recommend 2. g6 against the Trompowsky because of the annoying 3. Bxf6 line, which ruins Black's pawn structure and loss of a central pawn. } *
+1. e4 e6 2. Nf3 { I also would like to recommend 2. Nf3, but you must remember
+that d7-d5 is not guaranteed. For instance, Black can play c7-c5, and now your
+
+[Event "Gotham's 1. e4: --- Scandinavian: Mieses-Kotric Variation"]
+[Date "2019.12.05"]
+[Black "1. e4 d5 - Scandinavian"]
+[Annotator "Gotham"]
+[UTCTime "10:29:45"]
+[ECO "B01"]
+
+trivial. I'm going to recommend the flexible Nf3 system, where we hope to
+ideas to follow. A lot depends which way castling occurs and how the LSB
+is no point in us going d4 to give them a target. Let's just castle and go
+idea. } *

@@ -6,4 +6,8 @@
 [Black "?"]
 [Result "*"]
 
-1. d4 Nf6 2. Nc3 d5 3. Bg5 Nbd7 { Here there are usually two ways White can continue: either with f3 or Nf3. } 4. f3 { The more dangerous of the two. White prepares e4 next with the full center. I do not recommend a fianchetto here for that reason. } 4... h6 5. Bh4 c5 { It is often the case that an early f-pawn push from your opponent must be punished with a strike in the center. c5 accomplishes that } 6. e4 dxe4 7. fxe4 Qb6 *
+1. e4 g6 2. d4 Bg7 3. Nf3 { The Modern. Black can now play d7-d6, c7-c6, or
+c7-c5 (The Sniper). There are some small other various alternatives (a6, b6,
+restricting the c8-bishop. } 3... Nf6 4. e5 c5 { The "Sniper", trying
+dangerous for Black. White wants to play Nb5, of course, and h3 to force the
+idea is creative - basically we want 0-0, Qe2, Rd1, and a moment to go e4-e5. } *

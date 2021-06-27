@@ -6,5 +6,6 @@
 [Black "?"]
 [Result "*"]
 
-1. d4 Nf6 2. c4 d6 { This move order will save you lots of time studying many of the extensive lines in the King's Indian. See below } 3. Nf3 g6 { The Kings Indian is a flexible opening setup that leads to imbalanced and sharp positions from the beginning. It can be played against virtually all lines except 1. e4. } 4. Nc3 Bg7 5. e4 O-O 6. Be2 { This is the typical King's Indian. You may be wondering.. Why 2. d6 instead of 2. g6? This is my opening move order to avoid some of the very sharp and deep variations of the King's Indian, namely the Saemisch and 4 Pawns Attack. Although those lines are not worse for black, the lines are pretty extensive and it's easy for Black to get an inferior position if he doesn't play accurately. } 6... Nbd7 7. O-O e5 { This is my recommendation against the King's Indian. This line is more solid, but offers good imbalances for a sharp middlegame and good winning chances for Black. Often times, Black can play for an f5 pawn break to attack the White king.
-[%cal Gd8e7,Gc7c6,Ga7a5] } *
+1. e4 e5 2. Nc3 Nf6 3. f4 d5 4. fxe5 Nxe4 5. Qf3 Nxc3 { We want them to take
+this knight so we will recapture with the b2 pawn and go for d2-d4, with a
+must prevent Nxe5. } 6. Bb5+ *
