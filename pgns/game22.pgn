@@ -6,7 +6,10 @@
 [Black "?"]
 [Result "*"]
 
-1. e4 c6 { This was a bittersweet chapter for me since I love the Caro so much.
-However, I'm going to provide two distinct weapons to challenge it. } 2. d4 d5 3. e5 { The Advance caro. In this chapter
-French structure with the LSB out on f5/g4. Alternatives to c5/Bf5 will also
-c6-g6 setup after d5 is fine. I prefer to play: } *
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 { Notes.
+Why is the Najdorf preferred? Because the immediate 5. ... e5 leads to the very strong 6. Bb5+.
+Strategic ideas:
+-- Pressure on the white e-pawn
+-- Black's extra central pawn
+-- The Minority attack: the two queenside pawns vs the castled king
+-- The exchange sacrifice: give up the rook for the knight on c3 (when W castles queenside) } *

@@ -24,7 +24,7 @@
 [ECO "C29"]
 [Opening "Vienna Game: Vienna Gambit, Paulsen Attack"]
 
-1. e4 e5 2. Nc3 Nf6 3. f4 d5 (3... exf4 4. e5 Ng8 (4... Qe7 5. Qe2 Ng8 6. d4 Nc6 7. Nf3 d5 (7... d6 8. Nd5 Qd8 (8... Qd7 9. exd6+ Nge7 10. Nxc7+ Kd8 11. dxe7+ Bxe7 12. Nxa8) 9. Nxc7+ Qxc7 10. exd6+) 8. Nxd5 { [%csl Ge7] } 8... Qd8 9. Qe4) 5. Nf3)  (3... d6 4. Nf3 Be7 5. fxe5 dxe5 6. Bc4) 4. fxe5 Nxe4 5. Qf3 Nxc3 { We want them to take
+1. e4 e5 2. Nc3 Nf6 3. f4 d5 (3... exf4 4. e5 Ng8 (4... Qe7 5. Qe2 Ng8 6. d4 Nc6 7. Nf3 d5 (7... d6 8. Nd5 Qd8 (8... Qd7 9. exd6+ Nge7 10. Nxc7+ Kd8 11. dxe7+ Bxe7 12. Nxa8) 9. Nxc7+ Qxc7 10. exd6+) 8. Nxd5 { [%csl Ge7] } 8... Qd8 9. Qe4) 5. Nf3 d6 6. d4 dxe5 7. Qe2)  (3... d6 4. Nf3 Be7 5. fxe5 dxe5 6. Bc4) 4. fxe5 Nxe4 5. Qf3 Nxc3 { We want them to take
 this knight so we will recapture with the b2 pawn and go for d2-d4, with a
 large center, and Bd3/Ne2 setup. } (5... Nc6 { A tricky and challenging move. We
 must prevent Nxe5. } 6. Bb5 Nxc3 (6... f5 { Combining Nc6 with f5 makes no sense. } 7. d3 Nxc3 8. bxc3 Be6 9. Ne2) 7. dxc3 Qh4+ (7... a6 8. Bxc6+ bxc6 9. Ne2 { And we prepare castling with Nd4 coming. Natural development here can quickly
@@ -58,70 +58,14 @@ c2-c3, Qg4 and a kingside attack. } *
 [ECO "C24"]
 [Opening "Bishop's Opening: Vienna Hybrid"]
 
-1. e4 e5 2. Nc3 Nc6 { So here's the deal. I would recommend 3. Bc4 here, but
+1. e4 (1. d4 d5 (1... e6) 2. c4 e6 (2... Nf6)) 1... e5 2. Nc3 Nc6 { So here's the deal. I would recommend 3. Bc4 here, but
 the problem is that after Nf6 d3, Na5 is just a perfectly reasonable move. I'm
-going to show you both options, and ultimately allow you to choose. } (2... Bc5 3. Nf3 d6 4. Na4 Nf6 5. Nxc5 dxc5) 3. Bc4 { In a perfect world, we'll play d3, f4, Nf3, and castle. Unfortunately,
-Black can just play Nf6 and Na5. } (3. f4 { This is a delayed King's Gambit, and unless Black is booked to the teeth, you
-can get a very comfortable position very quickly. The ultra-theory goes: } 3... exf4 { Accepting the
-gambit is no joke. This leads to crazy variations and you have to remember
-your lines. } (3... d6 { The declining of the gambit just leads to a supremely
-easy position for White, with Nf3, Bb5, and a quick castle. } 4. Nf3 Bg4 5. Bb5 a6 6. Bxc6+ bxc6 7. h3 Bxf3 8. Qxf3)  (3... Nf6 4. fxe5 Nxe5 5. d4)  (3... Bc5 4. Nf3 d6 5. Bb5 Ne7 6. Na4 { We can also hunt the bishop! }) 4. Nf3 g5 (4... d6 5. d4 g5 6. d5 Ne5 7. Bb5+ Bd7 8. Bxd7+ Nxd7 9. h4 g4 10. Nd4 Qf6 11. Ncb5) 5. h4 { From a logical standpoint this move seems to be the only one. There are
-others however. } (5. d4 g4 6. Bc4 { I dare you - prove your point! } 6... gxf3 7. O-O { This looks incredibly tempting for a second but it kind of sucks - again, if
-Black is prepared. } (7. Qxf3 Qh4+ 8. g3 Nxd4 9. Qf2 Qf6 10. Bxf4 Bb4 11. e5 Qc6 12. O-O-O Bxc3 13. Bxf7+ Kxf7 14. bxc3 Nf3 15. Rhf1 { OK, we're at the end of
-the chaos. White wants to push e6+, play Rd3 or Qe3, and take the knight with
-the f1-rook. Black's got a wide-open king on f7 despite his material advantage.
-Disregard the computer for a second and try to visualize how on earth Black is
-going to consolidate. }) 7... fxg2 (7... Nxd4 8. Bxf4 Bc5 9. Kh1 d6 10. b4 Bb6 11. Nd5 fxg2+ 12. Kxg2 { If this looks suspicious it's because it is. But again,
-Black needs to avoid a lot of traps. } 12... Ne6 13. Qf3) 8. Rxf4)  (5. g3 { This one
-baits g4 but has a twist. } 5... g4 6. Nh4 f3 7. d4 { Now Black isn't breaking in. } 7... d6 8. Be3 Be7 9. Qd2 Bxh4 10. gxh4 Qxh4+ 11. Bf2 { White's actually doing fine
-here. } 11... Qh6 12. Qxh6 Nxh6 13. Nd5 Kd7 14. Kd2) 5... g4 6. Ng5 h6 7. Nxf7 Kxf7 8. d4 d5 (8... f3 9. Bc4+ Kg7 10. gxf3 Be7 11. Be3 { And... total insanity. }) 9. Bxf4 { White needs to keep developing and pressuring the center with his
-remaining pieces. Letting the computer run at a high depth here is, again, an
-option...but our opponents do not have computers or infinite time. It's
-incredibly tough to deal with White's incoming assault. } 9... Nf6 10. Nxd5 (10. exd5 Nxd5 (10... Bd6 11. Bxd6 Qxd6 12. dxc6) 11. Bc4 Be6 12. O-O { And Black's
-already dead. }) 10... Nxd5 11. Bc4 Be6 12. exd5 Bxd5 13. O-O) 3... Nf6 (3... Bc5 { Symmetry is a mistake! } 4. Qg4 Qf6 (4... g6 5. Qf3 Nf6 6. Nge2 d6 7. d3 Bg4 8. Qg3 { [%cal Rc1g5] }) 5. Nd5 Qxf2+ 6. Kd1 Kf8 7. Nh3 Qd4 8. d3 d6 9. Qf3 Bxh3 10. Rf1 Be6 11. c3) 4. d3 Na5 { Against this I'll recommend... } (4... Bb4 { A smart player will pin this
+going to show you both options, and ultimately allow you to choose. } (2... Bc5 3. Nf3 d6 (3... Nc6 4. Nxe5 Nxe5 5. d4 { [%csl Ge6][%cal Gd5e6] } 5... Bxd4 6. Qxd4 d6 7. Be2 Nf6 8. f3) 4. Na4 Bb4 5. c3 Ba5 6. d4 exd4 7. b4 Bb6 8. cxd4)  (2... d6 { [%csl Gd4] } 3. Bc4 { [%csl Gf6] } 3... Nf6 { [%csl Gf3] } (3... c6 4. d4 exd4 5. Qxd4 Nf6 6. Bf4 Be7 7. O-O-O) 4. Nf3 Be7 (4... h6 { [%csl Gh1] } 5. O-O Be7 6. d4 exd4 7. Nxd4 O-O 8. Re1)) 3. Bc4 { In a perfect world, we'll play d3, f4, Nf3, and castle. Unfortunately,
+Black can just play Nf6 and Na5. } 3... Nf6 (3... Bc5 { Symmetry is a mistake! } 4. Qg4 Qf6 (4... g6 5. Qf3 Nf6 6. Nge2 d6 7. d3 Bg4 8. Qg3 { [%cal Rc1g5] }) 5. Nd5 Qxf2+ 6. Kd1 Kf8 7. Nh3 Qd4 8. d3 d6 9. Qf3 Bxh3 10. Rf1 Be6 11. c3) 4. d3 Na5 { Against this I'll recommend... } (4... Bb4 { A smart player will pin this
 knight in order to push d7-d5 instantly given the pin. I'll show you what to
 do in case d5 happens or doesn't. } 5. Ne2 d5 (5... O-O 6. O-O d6 (6... h6 7. a3 Be7 8. f4) 7. Bg5 { Now Nd5 simply comes. Also, f2-f4. }) 6. exd5 Nxd5 7. O-O Be6 8. a3 Bxc3 9. bxc3 O-O 10. a4 { We have two bishops and an open b-file so
 we try to use it. Objectively still equal though. })  (4... Bc5 { While Bc5 is
 natural it kind of gives us the perfect set-up. } 5. f4 d6 6. Nf3 Ng4 (6... Bg4 7. Na4 { Keep this in mind! } 7... O-O 8. Nxc5 dxc5 9. O-O Nd4 10. c3 Nxf3+ 11. gxf3 Bh3 12. Rf2 exf4 13. Bxf4)  (6... O-O 7. Na4 Bg4 8. Nxc5 dxc5 9. O-O Qd6 10. Qd2 Bxf3 11. gxf3 Rad8 12. Kh1 Nh5 13. fxe5 Nxe5 14. Qg5 Nxc4 15. Qxh5 Ne5 16. f4) 7. Ng5 O-O 8. f5 { A nice trick to close the diagonal and the center. } 8... Nf2 9. Qh5) 5. Qf3 Nxc4 6. dxc4 Bc5 (6... d6 7. h3 Be6 8. b3 Be7 9. Nge2 O-O 10. O-O) 7. Be3 Bxe3 8. Qxe3 O-O 9. h3 d6 10. b3 Be6 11. Nge2 *
-
-
-[Event "Gotham's 1. e4: * Sicilian Defence *"]
-[Site "https://lichess.org/study/ppX6nEGb/OqX2OF7w"]
-[Result "*"]
-[UTCDate "2021.06.15"]
-[UTCTime "03:15:25"]
-[Variant "Standard"]
-[ECO "?"]
-[Opening "?"]
-[Annotator "https://lichess.org/@/vikramsingh0309"]
-
-*
-
-
-[Event "Gotham's 1. e4: --- 2. ... Nc6: Rossolimo Attack"]
-[Site "https://lichess.org/study/ppX6nEGb/MgpqettO"]
-[Result "*"]
-[UTCDate "2021.06.13"]
-[UTCTime "10:37:07"]
-[Variant "Standard"]
-[ECO "B31"]
-[Opening "Sicilian Defense: Nyezhmetdinov-Rossolimo Attack, Fianchetto Variation"]
-[Annotator "https://lichess.org/@/vikramsingh0309"]
-
-1. e4 c5 2. Nf3 Nc6 3. Bb5 { Rossolimo Attack } 3... g6 { Finachetto Variation } (3... d6 { Transposes to Moscow })  (3... e6) *
-
-
-[Event "Gotham's 1. e4: --- 2. ... d6: Moscow Attack"]
-[Site "https://lichess.org/study/ppX6nEGb/XK0i8q7x"]
-[Result "*"]
-[UTCDate "2021.06.13"]
-[UTCTime "10:46:30"]
-[Variant "Standard"]
-[ECO "B51"]
-[Opening "Sicilian Defense: Moscow Variation"]
-[Annotator "https://lichess.org/@/vikramsingh0309"]
-
-1. e4 c5 2. Nf3 d6 3. Bb5+ { Moscow Attack } *
 
 
 [Event "Gotham's 1. e4: * The Caro Kann *"]
@@ -212,12 +156,10 @@ Nh6, he can get in trouble quickly. } 5... e6 (5... Nh6 6. c3 e6 7. Be3 Nf5 (7..
 [UTCDate "2021.06.13"]
 [UTCTime "10:29:44"]
 [Variant "Standard"]
-[ECO "C00"]
-[Opening "French Defense: Two Knights Variation"]
+[ECO "C08"]
+[Opening "French Defense: Tarrasch Variation, Open System"]
 
-1. e4 e6 2. Nf3 { I also would like to recommend 2. Nf3, but you must remember
-that d7-d5 is not guaranteed. For instance, Black can play c7-c5, and now your
-way of getting back to our repertoire would be b3, but you take away f2-f4. } 2... d5 (2... c5 3. d4 cxd4 4. Nxd4 Nc6) 3. Nc3 { Most folks here play Nf6, but there are more choices. } 3... Nf6 (3... dxe4 4. Nxe4 Nd7 (4... Nf6 5. Nxf6+ Qxf6 6. d4 Nc6 7. Bd3 Bd6?? (7... Nxd4?? 8. Nxd4 Qxd4?? 9. Bb5+ Qd7 10. Bxd7+ Bxd7) 8. Bg5) 5. d4 Ngf6 6. Nxf6+ Nxf6 7. Bd3)  (3... d4 4. Ne2 c5 { [%csl Gc3] } 5. c3 (5. Ng3 Nc6 6. Bc4 Nf6 7. d3 Bd6 8. Qe2 e5 9. Bg5) 5... Nc6 (5... Nf6 6. e5 Nfd7 7. cxd4 cxd4 8. Nexd4 Nxe5 9. Bb5+ Nec6 10. O-O Be7 11. Nc2 O-O 12. d4 a6 13. Bd3 Nd7 14. Qe2 Nf6 15. Bf4) 6. cxd4 cxd4 7. Qa4 Bc5 (7... Bd7 8. Nexd4 a6 9. Qb3 Nxd4 10. Nxd4 Bc5 11. Nf3 Nf6 12. d3) 8. b4 Bxb4 (8... Bb6 9. b5) 9. Nexd4 Ne7 (9... Qa5 10. Qxa5 Bxa5 11. Nxc6 bxc6 12. Ba3 Ne7 13. Ne5 Bc7 14. Nc4))  (3... c5 4. exd5 exd5 5. Bb5+ Nc6 6. O-O Nf6 7. d4 Be7 8. dxc5 O-O 9. Bg5 Bg4 10. h3 Bh5 11. Bxf6 Bxf6 12. Qxd5 Qxd5 13. Nxd5 Bxb2 14. Rab1 Ba3 15. g4 Bg6 16. Bxc6 bxc6 17. Ne7+ Kh8 18. Nxg6+ fxg6 19. Ne5) 4. e5 Nfd7 (4... Ne4 5. Ne2 { Retreating and trapping the Ne4. } 5... Bc5 6. d4 Be7 7. Ng3 c5 8. Bd3) 5. d4 (5. Ne2 c5 6. c3 Nc6 7. d4 Qb6 (7... Be7 8. a3 Qb6 9. b4)  (7... cxd4 8. cxd4 Bb4+ 9. Nc3) 8. a3 Be7 9. g3) 5... c5 6. dxc5 Bxc5 (6... Nc6 7. Bf4 Nxc5 8. h4 a6 9. a3 b5 10. h5 h6 11. Rh3 Bb7 12. b4 Ne4 13. Nxe4 dxe4 14. Nd2 Qd4 15. c3 Qd5 16. c4 bxc4 17. Nxc4 Rd8 18. Nb6 Qxd1+ 19. Rxd1 Be7 20. Rg3) 7. Bd3 Nc6 8. Bf4 h6 (8... a6 9. Qe2)  (8... O-O 9. Bxh7+) 9. h4 a6 10. Qe2 b5 11. h5 Nb6 12. Rh3 Bd7 13. Rg3 Bf8 14. Kf1 Qc7 15. Kg1 *
+1. e4 e6 2. d4 d5 3. Nd2 c5 { Open Tarrasch } (3... Nf6 { Closed } 4. e5 Nfd7 5. c3 c5 6. Bd3 Nc6 7. Ne2 Qb6 (7... cxd4 8. cxd4) 8. Nf3)  (3... dxe4 4. Nxe4 Nf6 { [%csl Gf5][%cal Gf1d3,Ge4f5] } (4... Nd7 5. Nf3 Ngf6 6. Bd3 Nxe4 7. Bxe4 Nf6 { [%cal Ge4d3] }) 5. Nxf6+ Qxf6 6. Nf3 { [%csl Gd6] } 6... h6 (6... Bd6) 7. Bd3) 4. exd5 exd5 5. Ngf3 Nf6 (5... Nc6 6. Bb5 Bd7 7. O-O Nf6 8. Re1+) 6. Bb5+ Bd7 7. Bxd7+ Nbxd7 8. O-O Be7 9. dxc5 Nxc5 *
 
 
 [Event "Gotham's 1. e4: --- Scandinavian: Mieses-Kotric Variation"]

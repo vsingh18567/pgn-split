@@ -6,8 +6,4 @@
 [Black "?"]
 [Result "*"]
 
-1. e4 g6 2. d4 Bg7 3. Nf3 { The Modern. Black can now play d7-d6, c7-c6, or
-c7-c5 (The Sniper). There are some small other various alternatives (a6, b6,
-restricting the c8-bishop. } 3... Nf6 4. e5 c5 { The "Sniper", trying
-dangerous for Black. White wants to play Nb5, of course, and h3 to force the
-idea is creative - basically we want 0-0, Qe2, Rd1, and a moment to go e4-e5. } *
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 { This gives white the opportunity to attack the Kingside. } 6... e5 7. Nb3 Be6 8. Be2 Be7 9. O-O O-O 10. f4 exf4 11. Bxf4 Nc6 *

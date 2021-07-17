@@ -1,5 +1,6 @@
 from typing import TextIO
-from chess import pgn, Move
+import click
+from chess import pgn
 import io
 import copy
 import os
@@ -7,10 +8,30 @@ import os
 
 class PgnSplitter:
     
+    def execute(self):
+        if type(self.filepath) == str:
+            self.get_games(self.filepath)
+        return self.counter, self.dirpath
+
     def __init__(self, filepath):
+        if not os.path.isdir("./pgns"):
+            self.dirpath = "pgns"
+        else:
+            count = 2
+            state = False
+            while not state:
+                if not os.path.isdir(f"./pgns{count}"):
+                    self.dirpath = f"pgns{count}"
+                    state = True
+                else:
+                    count += 1
+        os.mkdir(f"./{self.dirpath}")
         self.counter = 0
         self.filepath = filepath
-        self.get_games(filepath)
+        self.execute()
+        # elif type(filepath) == list:
+        #     for file in filepath:
+        #         self.get_games(file)
 
     def get_game(self, f: TextIO) -> str :
         '''
@@ -31,8 +52,6 @@ class PgnSplitter:
             end = True
         while not end:
             line = f.readline()
-            if f.readline() == "":
-                return "EOF"
             game += line
             if "*" in line:
                 end = True
@@ -46,7 +65,6 @@ class PgnSplitter:
                 a = self.get_game(f)
                 game = pgn.read_game(io.StringIO(a))
                 self.parse_game(game)
-
 
 
     def parse_game(self, game: pgn.GameNode):
@@ -75,18 +93,14 @@ class PgnSplitter:
         
 
     def write_game(self, string):
-        filepath = f"pgns/game{self.counter}.pgn"
-        if not os.path.isdir("./pgns"):
-            os.mkdir("pgns")
-        elif os.path.isfile(filepath):
-                os.remove(filepath)
+        filepath = f"./{self.dirpath}/game{self.counter}.pgn"
+        file_exists = os.path.isfile(filepath)
+        if file_exists:
+            os.remove(filepath)
         with open (filepath, "w") as f:
             f.write(string)
-        
-        print(f"PGN {self.counter} created")
         self.counter += 1
 
 
-PgnSplitter('gotham.pgn')
 
 
