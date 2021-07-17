@@ -1,7 +1,7 @@
 [tool.poetry]
 name = "pgnsplit"
-version = "0.1.0"
-description = ""
+version = "0.1.1"
+description = "Simple package that splits a chess pgn file into a folder of pgns - each one containing one variation of the original pgn."
 authors = ["vsingh18567 <59497793+vsingh18567@users.noreply.github.com>"]
 
 [tool.poetry.scripts]
