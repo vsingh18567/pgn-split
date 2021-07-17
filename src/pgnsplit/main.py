@@ -1,4 +1,4 @@
-from .PgnSplitter import PgnSplitter
+from .pgn_splitter import PgnSplitter
 import os
 import click
 
